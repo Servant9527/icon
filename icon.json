@@ -3,2075 +3,1027 @@
   "icons": [
     {
       "name": "Afghanistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Afghanistan.png"
-    },
-    {
-      "name": "Aland_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Aland_Islands.png"
-    },
-    {
-      "name": "Albania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Albania.png"
-    },
-    {
-      "name": "Algeria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Algeria.png"
-    },
-    {
-      "name": "American_Samoa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/American_Samoa.png"
-    },
-    {
-      "name": "Andorra",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Andorra.png"
-    },
-    {
-      "name": "Angola",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Angola.png"
-    },
-    {
-      "name": "Anguilla",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Anguilla.png"
-    },
-    {
-      "name": "Antarctica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Antarctica.png"
-    },
-    {
-      "name": "Antigua_and_Barbuda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Antigua_and_Barbuda.png"
-    },
-    {
-      "name": "Argentina",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Argentina.png"
-    },
-    {
-      "name": "Armenia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Armenia.png"
-    },
-    {
-      "name": "Aruba",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Aruba.png"
-    },
-    {
-      "name": "Ascension_Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ascension_Island.png"
-    },
-    {
-      "name": "Australia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Australia.png"
-    },
-    {
-      "name": "Austria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Austria.png"
-    },
-    {
-      "name": "Azerbaijan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Azerbaijan.png"
-    },
-    {
-      "name": "Bahamas",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bahamas.png"
-    },
-    {
-      "name": "Bahrain",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bahrain.png"
-    },
-    {
-      "name": "Bangladesh",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bangladesh.png"
-    },
-    {
-      "name": "Barbados",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Barbados.png"
-    },
-    {
-      "name": "Belarus",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Belarus.png"
-    },
-    {
-      "name": "Belgium",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Belgium.png"
-    },
-    {
-      "name": "Belize",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Belize.png"
-    },
-    {
-      "name": "Benin",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Benin.png"
-    },
-    {
-      "name": "Bermuda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bermuda.png"
-    },
-    {
-      "name": "Bhutan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bhutan.png"
-    },
-    {
-      "name": "Bolivia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bolivia.png"
-    },
-    {
-      "name": "Bosnia_and_Herzegovina",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bosnia_and_Herzegovina.png"
-    },
-    {
-      "name": "Botswana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Botswana.png"
-    },
-    {
-      "name": "Bouvet_Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bouvet_Island.png"
-    },
-    {
-      "name": "Brazil",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Brazil.png"
-    },
-    {
-      "name": "British_Indian_Ocean_Territory",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/British_Indian_Ocean_Territory.png"
-    },
-    {
-      "name": "British_Virgin_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/British_Virgin_Islands.png"
-    },
-    {
-      "name": "Brunei",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Brunei.png"
-    },
-    {
-      "name": "Bulgaria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Bulgaria.png"
-    },
-    {
-      "name": "Burkina_Faso",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Burkina_Faso.png"
-    },
-    {
-      "name": "Burundi",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Burundi.png"
-    },
-    {
-      "name": "Cambodia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cambodia.png"
-    },
-    {
-      "name": "Cameroon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cameroon.png"
-    },
-    {
-      "name": "Canada",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Canada.png"
-    },
-    {
-      "name": "Canary_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Canary_Islands.png"
-    },
-    {
-      "name": "Cape_Verde",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cape_Verde.png"
-    },
-    {
-      "name": "Caribbean_Netherlands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Caribbean_Netherlands.png"
-    },
-    {
-      "name": "Cayman_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cayman_Islands.png"
-    },
-    {
-      "name": "Central_African_Republic",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Central_African_Republic.png"
-    },
-    {
-      "name": "Ceuta_and_Melilla",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ceuta_and_Melilla.png"
-    },
-    {
-      "name": "Chad",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Chad.png"
-    },
-    {
-      "name": "Chile",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Chile.png"
-    },
-    {
-      "name": "China",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/China.png"
-    },
-    {
-      "name": "Christmas_Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Christmas_Island.png"
-    },
-    {
-      "name": "Clipperton_Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Clipperton_Island.png"
-    },
-    {
-      "name": "Cocos_Keeling_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cocos_Keeling_Islands.png"
-    },
-    {
-      "name": "Colombia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Colombia.png"
-    },
-    {
-      "name": "Comoros",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Comoros.png"
-    },
-    {
-      "name": "Congo_Brazzaville",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Congo_Brazzaville.png"
-    },
-    {
-      "name": "Congo_Kinshasa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Congo_Kinshasa.png"
-    },
-    {
-      "name": "Cook_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cook_Islands.png"
-    },
-    {
-      "name": "Costa_Rica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Costa_Rica.png"
-    },
-    {
-      "name": "Cote_dIvoire",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cote_dIvoire.png"
-    },
-    {
-      "name": "Croatia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Croatia.png"
-    },
-    {
-      "name": "Cuba",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cuba.png"
-    },
-    {
-      "name": "Curacao",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Curacao.png"
-    },
-    {
-      "name": "Cyprus",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Cyprus.png"
-    },
-    {
-      "name": "Czechia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Czechia.png"
-    },
-    {
-      "name": "Denmark",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Denmark.png"
-    },
-    {
-      "name": "Diego_Garcia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Diego_Garcia.png"
-    },
-    {
-      "name": "Djibouti",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Djibouti.png"
-    },
-    {
-      "name": "Dominica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Dominica.png"
-    },
-    {
-      "name": "Dominican_Republic",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Dominican_Republic.png"
-    },
-    {
-      "name": "Ecuador",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ecuador.png"
-    },
-    {
-      "name": "Egypt",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Egypt.png"
-    },
-    {
-      "name": "El_Salvador",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/El_Salvador.png"
-    },
-    {
-      "name": "England",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/England.png"
-    },
-    {
-      "name": "Equatorial_Guinea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Equatorial_Guinea.png"
-    },
-    {
-      "name": "Eritrea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Eritrea.png"
-    },
-    {
-      "name": "Estonia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Estonia.png"
-    },
-    {
-      "name": "Eswatini",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Eswatini.png"
-    },
-    {
-      "name": "Ethiopia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ethiopia.png"
-    },
-    {
-      "name": "European_Union",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/European_Union.png"
-    },
-    {
-      "name": "Falkland_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Falkland_Islands.png"
-    },
-    {
-      "name": "Faroe_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Faroe_Islands.png"
-    },
-    {
-      "name": "Fiji",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Fiji.png"
-    },
-    {
-      "name": "Finland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Finland.png"
-    },
-    {
-      "name": "France",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/France.png"
-    },
-    {
-      "name": "French_Guiana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/French_Guiana.png"
-    },
-    {
-      "name": "French_Polynesia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/French_Polynesia.png"
-    },
-    {
-      "name": "French_Southern_Territories",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/French_Southern_Territories.png"
-    },
-    {
-      "name": "Gabon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Gabon.png"
-    },
-    {
-      "name": "Gambia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Gambia.png"
-    },
-    {
-      "name": "Georgia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Georgia.png"
-    },
-    {
-      "name": "Germany",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Germany.png"
-    },
-    {
-      "name": "Ghana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ghana.png"
-    },
-    {
-      "name": "Gibraltar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Gibraltar.png"
-    },
-    {
-      "name": "Greece",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Greece.png"
-    },
-    {
-      "name": "Greenland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Greenland.png"
-    },
-    {
-      "name": "Grenada",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Grenada.png"
-    },
-    {
-      "name": "Guadeloupe",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guadeloupe.png"
-    },
-    {
-      "name": "Guam",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guam.png"
-    },
-    {
-      "name": "Guatemala",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guatemala.png"
-    },
-    {
-      "name": "Guernsey",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guernsey.png"
-    },
-    {
-      "name": "Guinea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guinea.png"
-    },
-    {
-      "name": "Guinea_Bissau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guinea_Bissau.png"
-    },
-    {
-      "name": "Guyana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Guyana.png"
-    },
-    {
-      "name": "Haiti",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Haiti.png"
-    },
-    {
-      "name": "Heard_and_McDonald_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Heard_and_McDonald_Islands.png"
-    },
-    {
-      "name": "Honduras",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Honduras.png"
-    },
-    {
-      "name": "Hong_Kong_SAR_China",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Hong_Kong_SAR_China.png"
-    },
-    {
-      "name": "Hungary",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Hungary.png"
-    },
-    {
-      "name": "Iceland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Iceland.png"
-    },
-    {
-      "name": "India",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/India.png"
-    },
-    {
-      "name": "Indonesia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Indonesia.png"
-    },
-    {
-      "name": "Iran",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Iran.png"
-    },
-    {
-      "name": "Iraq",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Iraq.png"
-    },
-    {
-      "name": "Ireland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ireland.png"
-    },
-    {
-      "name": "Isle_of_Man",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Isle_of_Man.png"
-    },
-    {
-      "name": "Israel",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Israel.png"
-    },
-    {
-      "name": "Italy",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Italy.png"
-    },
-    {
-      "name": "Jamaica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Jamaica.png"
-    },
-    {
-      "name": "Japan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Japan.png"
-    },
-    {
-      "name": "Jersey",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Jersey.png"
-    },
-    {
-      "name": "Jordan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Jordan.png"
-    },
-    {
-      "name": "Kazakhstan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Kazakhstan.png"
-    },
-    {
-      "name": "Kenya",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Kenya.png"
-    },
-    {
-      "name": "Kiribati",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Kiribati.png"
-    },
-    {
-      "name": "Kosovo",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Kosovo.png"
-    },
-    {
-      "name": "Kuwait",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Kuwait.png"
-    },
-    {
-      "name": "Kyrgyzstan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Kyrgyzstan.png"
-    },
-    {
-      "name": "Laos",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Laos.png"
-    },
-    {
-      "name": "Latvia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Latvia.png"
-    },
-    {
-      "name": "Lebanon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Lebanon.png"
-    },
-    {
-      "name": "Lesotho",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Lesotho.png"
-    },
-    {
-      "name": "Liberia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Liberia.png"
-    },
-    {
-      "name": "Libya",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Libya.png"
-    },
-    {
-      "name": "Liechtenstein",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Liechtenstein.png"
-    },
-    {
-      "name": "Lithuania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Lithuania.png"
-    },
-    {
-      "name": "Luxembourg",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Luxembourg.png"
-    },
-    {
-      "name": "Macao_SAR_China",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Macao_SAR_China.png"
-    },
-    {
-      "name": "Madagascar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Madagascar.png"
-    },
-    {
-      "name": "Malawi",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Malawi.png"
-    },
-    {
-      "name": "Malaysia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Malaysia.png"
-    },
-    {
-      "name": "Maldives",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Maldives.png"
-    },
-    {
-      "name": "Mali",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mali.png"
-    },
-    {
-      "name": "Malta",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Malta.png"
-    },
-    {
-      "name": "Marshall_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Marshall_Islands.png"
-    },
-    {
-      "name": "Martinique",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Martinique.png"
-    },
-    {
-      "name": "Mauritania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mauritania.png"
-    },
-    {
-      "name": "Mauritius",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mauritius.png"
-    },
-    {
-      "name": "Mayotte",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mayotte.png"
-    },
-    {
-      "name": "Mexico",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mexico.png"
-    },
-    {
-      "name": "Micronesia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Micronesia.png"
-    },
-    {
-      "name": "Moldova",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Moldova.png"
-    },
-    {
-      "name": "Monaco",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Monaco.png"
-    },
-    {
-      "name": "Mongolia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mongolia.png"
-    },
-    {
-      "name": "Montenegro",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Montenegro.png"
-    },
-    {
-      "name": "Montserrat",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Montserrat.png"
-    },
-    {
-      "name": "Morocco",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Morocco.png"
-    },
-    {
-      "name": "Mozambique",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Mozambique.png"
-    },
-    {
-      "name": "Myanmar_Burma",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Myanmar_Burma.png"
-    },
-    {
-      "name": "Namibia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Namibia.png"
-    },
-    {
-      "name": "Nauru",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Nauru.png"
-    },
-    {
-      "name": "Nepal",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Nepal.png"
-    },
-    {
-      "name": "Netherlands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Netherlands.png"
-    },
-    {
-      "name": "New_Caledonia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/New_Caledonia.png"
-    },
-    {
-      "name": "New_Zealand",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/New_Zealand.png"
-    },
-    {
-      "name": "Nicaragua",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Nicaragua.png"
-    },
-    {
-      "name": "Niger",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Niger.png"
-    },
-    {
-      "name": "Nigeria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Nigeria.png"
-    },
-    {
-      "name": "Niue",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Niue.png"
-    },
-    {
-      "name": "Norfolk_Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Norfolk_Island.png"
-    },
-    {
-      "name": "North_Korea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/North_Korea.png"
-    },
-    {
-      "name": "North_Macedonia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/North_Macedonia.png"
-    },
-    {
-      "name": "Northern_Mariana_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Northern_Mariana_Islands.png"
-    },
-    {
-      "name": "Norway",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Norway.png"
-    },
-    {
-      "name": "Oman",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Oman.png"
-    },
-    {
-      "name": "Pakistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Pakistan.png"
-    },
-    {
-      "name": "Palau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Palau.png"
-    },
-    {
-      "name": "Palestinian_Territories",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Palestinian_Territories.png"
-    },
-    {
-      "name": "Panama",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Panama.png"
-    },
-    {
-      "name": "Papua_New_Guinea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Papua_New_Guinea.png"
-    },
-    {
-      "name": "Paraguay",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Paraguay.png"
-    },
-    {
-      "name": "Peru",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Peru.png"
-    },
-    {
-      "name": "Philippines",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Philippines.png"
-    },
-    {
-      "name": "Pitcairn_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Pitcairn_Islands.png"
-    },
-    {
-      "name": "Poland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Poland.png"
-    },
-    {
-      "name": "Portugal",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Portugal.png"
-    },
-    {
-      "name": "Puerto_Rico",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Puerto_Rico.png"
-    },
-    {
-      "name": "Qatar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Qatar.png"
-    },
-    {
-      "name": "Reunion",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Reunion.png"
-    },
-    {
-      "name": "Romania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Romania.png"
-    },
-    {
-      "name": "Russia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Russia.png"
-    },
-    {
-      "name": "Rwanda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Rwanda.png"
-    },
-    {
-      "name": "Samoa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Samoa.png"
-    },
-    {
-      "name": "San_Marino",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/San_Marino.png"
-    },
-    {
-      "name": "Sao_Tome_and_Principe",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sao_Tome_and_Principe.png"
-    },
-    {
-      "name": "Sark",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sark.png"
-    },
-    {
-      "name": "Saudi_Arabia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Saudi_Arabia.png"
-    },
-    {
-      "name": "Scotland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Scotland.png"
-    },
-    {
-      "name": "Senegal",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Senegal.png"
-    },
-    {
-      "name": "Serbia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Serbia.png"
-    },
-    {
-      "name": "Seychelles",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Seychelles.png"
-    },
-    {
-      "name": "Sierra_Leone",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sierra_Leone.png"
-    },
-    {
-      "name": "Singapore",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Singapore.png"
-    },
-    {
-      "name": "Sint_Maarten",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sint_Maarten.png"
-    },
-    {
-      "name": "Slovakia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Slovakia.png"
-    },
-    {
-      "name": "Slovenia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Slovenia.png"
-    },
-    {
-      "name": "Solomon_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Solomon_Islands.png"
-    },
-    {
-      "name": "Somalia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Somalia.png"
-    },
-    {
-      "name": "South_Africa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/South_Africa.png"
-    },
-    {
-      "name": "South_Georgia_and_South_Sandwich_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/South_Georgia_and_South_Sandwich_Islands.png"
-    },
-    {
-      "name": "South_Korea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/South_Korea.png"
-    },
-    {
-      "name": "South_Sudan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/South_Sudan.png"
-    },
-    {
-      "name": "Spain",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Spain.png"
-    },
-    {
-      "name": "Sri_Lanka",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sri_Lanka.png"
-    },
-    {
-      "name": "St_Barthelemy",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Barthelemy.png"
-    },
-    {
-      "name": "St_Helena",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Helena.png"
-    },
-    {
-      "name": "St_Kitts_and_Nevis",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Kitts_and_Nevis.png"
-    },
-    {
-      "name": "St_Lucia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Lucia.png"
-    },
-    {
-      "name": "St_Martin",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Martin.png"
-    },
-    {
-      "name": "St_Pierre_and_Miquelon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Pierre_and_Miquelon.png"
-    },
-    {
-      "name": "St_Vincent_and_Grenadines",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/St_Vincent_and_Grenadines.png"
-    },
-    {
-      "name": "Sudan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sudan.png"
-    },
-    {
-      "name": "Suriname",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Suriname.png"
-    },
-    {
-      "name": "Svalbard_and_Jan_Mayen",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Svalbard_and_Jan_Mayen.png"
-    },
-    {
-      "name": "Sweden",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Sweden.png"
-    },
-    {
-      "name": "Switzerland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Switzerland.png"
-    },
-    {
-      "name": "Syria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Syria.png"
-    },
-    {
-      "name": "Taiwan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Taiwan.png"
-    },
-    {
-      "name": "Tajikistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tajikistan.png"
-    },
-    {
-      "name": "Tanzania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tanzania.png"
-    },
-    {
-      "name": "Thailand",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Thailand.png"
-    },
-    {
-      "name": "Timor_Leste",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Timor_Leste.png"
-    },
-    {
-      "name": "Togo",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Togo.png"
-    },
-    {
-      "name": "Tokelau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tokelau.png"
-    },
-    {
-      "name": "Tonga",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tonga.png"
-    },
-    {
-      "name": "Trinidad_and_Tobago",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Trinidad_and_Tobago.png"
-    },
-    {
-      "name": "Tristan_da_Cunha",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tristan_da_Cunha.png"
-    },
-    {
-      "name": "Tunisia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tunisia.png"
-    },
-    {
-      "name": "Turkiye",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Turkiye.png"
-    },
-    {
-      "name": "Turkmenistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Turkmenistan.png"
-    },
-    {
-      "name": "Turks_and_Caicos_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Turks_and_Caicos_Islands.png"
-    },
-    {
-      "name": "Tuvalu",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Tuvalu.png"
-    },
-    {
-      "name": "U_S_Outlying_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/U_S_Outlying_Islands.png"
-    },
-    {
-      "name": "U_S_Virgin_Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/U_S_Virgin_Islands.png"
-    },
-    {
-      "name": "Uganda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Uganda.png"
-    },
-    {
-      "name": "Ukraine",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Ukraine.png"
-    },
-    {
-      "name": "United_Arab_Emirates",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/United_Arab_Emirates.png"
-    },
-    {
-      "name": "United_Kingdom",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/United_Kingdom.png"
-    },
-    {
-      "name": "United_Nations",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/United_Nations.png"
-    },
-    {
-      "name": "United_States",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/United_States.png"
-    },
-    {
-      "name": "Uruguay",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Uruguay.png"
-    },
-    {
-      "name": "Uzbekistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Uzbekistan.png"
-    },
-    {
-      "name": "Vanuatu",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Vanuatu.png"
-    },
-    {
-      "name": "Vatican_City",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Vatican_City.png"
-    },
-    {
-      "name": "Venezuela",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Venezuela.png"
-    },
-    {
-      "name": "Vietnam",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Vietnam.png"
-    },
-    {
-      "name": "Wales",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Wales.png"
-    },
-    {
-      "name": "Wallis_and_Futuna",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Wallis_and_Futuna.png"
-    },
-    {
-      "name": "Western_Sahara",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Western_Sahara.png"
-    },
-    {
-      "name": "Yemen",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Yemen.png"
-    },
-    {
-      "name": "Zambia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Zambia.png"
-    },
-    {
-      "name": "Zimbabwe",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/emoji-flags/Zimbabwe.png"
-    },
-    {
-      "name": "Afghanistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Afghanistan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Afghanistan.png"
     },
     {
       "name": "Aland Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Aland%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Aland%20Islands.png"
     },
     {
       "name": "Albania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Albania.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Albania.png"
     },
     {
       "name": "Algeria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Algeria.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Algeria.png"
     },
     {
       "name": "American Samoa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/American%20Samoa.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/American%20Samoa.png"
     },
     {
       "name": "Andorra",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Andorra.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Andorra.png"
     },
     {
       "name": "Angola",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Angola.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Angola.png"
     },
     {
       "name": "Anguilla",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Anguilla.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Anguilla.png"
     },
     {
       "name": "Antarctica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Antarctica.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Antarctica.png"
     },
     {
       "name": "Antigua and Barbuda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Antigua%20and%20Barbuda.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Antigua%20and%20Barbuda.png"
     },
     {
       "name": "Argentina",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Argentina.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Argentina.png"
     },
     {
       "name": "Armenia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Armenia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Armenia.png"
     },
     {
       "name": "Aruba",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Aruba.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Aruba.png"
     },
     {
       "name": "Australia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Australia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Australia.png"
     },
     {
       "name": "Austria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Austria.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Austria.png"
     },
     {
       "name": "Azerbaijan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Azerbaijan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Azerbaijan.png"
     },
     {
       "name": "Bahamas",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bahamas.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bahamas.png"
     },
     {
       "name": "Bahrain",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bahrain.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bahrain.png"
     },
     {
       "name": "Bangladesh",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bangladesh.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bangladesh.png"
     },
     {
       "name": "Barbados",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Barbados.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Barbados.png"
     },
     {
       "name": "Belarus",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Belarus.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Belarus.png"
     },
     {
       "name": "Belgium",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Belgium.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Belgium.png"
     },
     {
       "name": "Belize",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Belize.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Belize.png"
     },
     {
       "name": "Benin",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Benin.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Benin.png"
     },
     {
       "name": "Bermuda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bermuda.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bermuda.png"
     },
     {
       "name": "Bhutan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bhutan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bhutan.png"
     },
     {
       "name": "Bolivia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bolivia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bolivia.png"
     },
     {
       "name": "Bosnia and Herzegovina",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bosnia%20and%20Herzegovina.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bosnia%20and%20Herzegovina.png"
     },
     {
       "name": "Botswana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Botswana.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Botswana.png"
     },
     {
       "name": "Bouvet Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bouvet%20Island.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bouvet%20Island.png"
     },
     {
       "name": "Brazil",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Brazil.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Brazil.png"
     },
     {
       "name": "British Indian Ocean Territory",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/British%20Indian%20Ocean%20Territory.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/British%20Indian%20Ocean%20Territory.png"
     },
     {
       "name": "British Virgin Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/British%20Virgin%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/British%20Virgin%20Islands.png"
     },
     {
       "name": "Brunei",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Brunei.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Brunei.png"
     },
     {
       "name": "Bulgaria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Bulgaria.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bulgaria.png"
     },
     {
       "name": "Burkina Faso",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Burkina%20Faso.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Burkina%20Faso.png"
     },
     {
       "name": "Burundi",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Burundi.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Burundi.png"
     },
     {
       "name": "Cambodia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cambodia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cambodia.png"
     },
     {
       "name": "Cameroon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cameroon.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cameroon.png"
     },
     {
       "name": "Canada",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Canada.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Canada.png"
     },
     {
       "name": "Cape Verde",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cape%20Verde.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cape%20Verde.png"
     },
     {
       "name": "Caribbean Netherlands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Caribbean%20Netherlands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Caribbean%20Netherlands.png"
     },
     {
       "name": "Cayman Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cayman%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cayman%20Islands.png"
     },
     {
       "name": "Central African Republic",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Central%20African%20Republic.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Central%20African%20Republic.png"
     },
     {
       "name": "Chad",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Chad.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Chad.png"
     },
     {
       "name": "Chile",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Chile.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Chile.png"
     },
     {
       "name": "China",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/China.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/China.png"
     },
     {
       "name": "Christmas Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Christmas%20Island.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Christmas%20Island.png"
     },
     {
       "name": "Cocos Keeling Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cocos%20Keeling%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cocos%20Keeling%20Islands.png"
     },
     {
       "name": "Colombia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Colombia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Colombia.png"
     },
     {
       "name": "Comoros",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Comoros.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Comoros.png"
     },
     {
       "name": "Cook Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cook%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cook%20Islands.png"
     },
     {
       "name": "Costa Rica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Costa%20Rica.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Costa%20Rica.png"
     },
     {
       "name": "Cote dIvoire Ivory Coast",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cote%20dIvoire%20Ivory%20Coast.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cote%20dIvoire%20Ivory%20Coast.png"
     },
     {
       "name": "Croatia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Croatia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Croatia.png"
     },
     {
       "name": "Cuba",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cuba.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cuba.png"
     },
     {
       "name": "Curacao",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Curacao.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Curacao.png"
     },
     {
       "name": "Cyprus",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Cyprus.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cyprus.png"
     },
     {
       "name": "Czechia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Czechia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Czechia.png"
     },
     {
       "name": "DR Congo",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/DR%20Congo.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/DR%20Congo.png"
     },
     {
       "name": "Denmark",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Denmark.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Denmark.png"
     },
     {
       "name": "Djibouti",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Djibouti.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Djibouti.png"
     },
     {
       "name": "Dominica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Dominica.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Dominica.png"
     },
     {
       "name": "Dominican Republic",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Dominican%20Republic.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Dominican%20Republic.png"
     },
     {
       "name": "Ecuador",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Ecuador.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ecuador.png"
     },
     {
       "name": "Egypt",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Egypt.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Egypt.png"
     },
     {
       "name": "El Salvador",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/El%20Salvador.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/El%20Salvador.png"
     },
     {
       "name": "England",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/England.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/England.png"
     },
     {
       "name": "Equatorial Guinea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Equatorial%20Guinea.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Equatorial%20Guinea.png"
     },
     {
       "name": "Eritrea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Eritrea.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Eritrea.png"
     },
     {
       "name": "Estonia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Estonia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Estonia.png"
     },
     {
       "name": "Eswatini Swaziland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Eswatini%20Swaziland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Eswatini%20Swaziland.png"
     },
     {
       "name": "Ethiopia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Ethiopia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ethiopia.png"
     },
     {
       "name": "European Union",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/European%20Union.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/European%20Union.png"
     },
     {
       "name": "Falkland Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Falkland%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Falkland%20Islands.png"
     },
     {
       "name": "Faroe Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Faroe%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Faroe%20Islands.png"
     },
     {
       "name": "Fiji",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Fiji.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Fiji.png"
     },
     {
       "name": "Finland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Finland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Finland.png"
     },
     {
       "name": "France",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/France.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/France.png"
     },
     {
       "name": "French Guiana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/French%20Guiana.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/French%20Guiana.png"
     },
     {
       "name": "French Polynesia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/French%20Polynesia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/French%20Polynesia.png"
     },
     {
       "name": "French Southern and Antarctic Lands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/French%20Southern%20and%20Antarctic%20Lands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/French%20Southern%20and%20Antarctic%20Lands.png"
     },
     {
       "name": "Gabon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Gabon.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Gabon.png"
     },
     {
       "name": "Gambia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Gambia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Gambia.png"
     },
     {
       "name": "Georgia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Georgia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Georgia.png"
     },
     {
       "name": "Germany",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Germany.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Germany.png"
     },
     {
       "name": "Ghana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Ghana.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ghana.png"
     },
     {
       "name": "Gibraltar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Gibraltar.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Gibraltar.png"
     },
     {
       "name": "Greece",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Greece.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Greece.png"
     },
     {
       "name": "Greenland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Greenland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Greenland.png"
     },
     {
       "name": "Grenada",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Grenada.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Grenada.png"
     },
     {
       "name": "Guadeloupe",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guadeloupe.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guadeloupe.png"
     },
     {
       "name": "Guam",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guam.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guam.png"
     },
     {
       "name": "Guatemala",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guatemala.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guatemala.png"
     },
     {
       "name": "Guernsey",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guernsey.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guernsey.png"
     },
     {
       "name": "Guinea-Bissau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guinea-Bissau.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guinea-Bissau.png"
     },
     {
       "name": "Guinea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guinea.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guinea.png"
     },
     {
       "name": "Guyana",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Guyana.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guyana.png"
     },
     {
       "name": "Haiti",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Haiti.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Haiti.png"
     },
     {
       "name": "Heard Island and McDonald Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Heard%20Island%20and%20McDonald%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Heard%20Island%20and%20McDonald%20Islands.png"
     },
     {
       "name": "Honduras",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Honduras.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Honduras.png"
     },
     {
       "name": "Hong Kong",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Hong%20Kong.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Hong%20Kong.png"
     },
     {
       "name": "Hungary",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Hungary.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Hungary.png"
     },
     {
       "name": "Iceland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Iceland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Iceland.png"
     },
     {
       "name": "India",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/India.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/India.png"
     },
     {
       "name": "Indonesia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Indonesia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Indonesia.png"
     },
     {
       "name": "Iran",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Iran.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Iran.png"
     },
     {
       "name": "Iraq",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Iraq.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Iraq.png"
     },
     {
       "name": "Ireland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Ireland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ireland.png"
     },
     {
       "name": "Isle of Man",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Isle%20of%20Man.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Isle%20of%20Man.png"
     },
     {
       "name": "Israel",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Israel.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Israel.png"
     },
     {
       "name": "Italy",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Italy.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Italy.png"
     },
     {
       "name": "Jamaica",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Jamaica.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Jamaica.png"
     },
     {
       "name": "Japan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Japan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Japan.png"
     },
     {
       "name": "Jersey",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Jersey.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Jersey.png"
     },
     {
       "name": "Jordan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Jordan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Jordan.png"
     },
     {
       "name": "Kazakhstan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Kazakhstan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kazakhstan.png"
     },
     {
       "name": "Kenya",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Kenya.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kenya.png"
     },
     {
       "name": "Kiribati",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Kiribati.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kiribati.png"
     },
     {
       "name": "Kosovo",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Kosovo.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kosovo.png"
     },
     {
       "name": "Kuwait",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Kuwait.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kuwait.png"
     },
     {
       "name": "Kyrgyzstan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Kyrgyzstan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kyrgyzstan.png"
     },
     {
       "name": "Laos",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Laos.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Laos.png"
     },
     {
       "name": "Latvia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Latvia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Latvia.png"
     },
     {
       "name": "Lebanon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Lebanon.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Lebanon.png"
     },
     {
       "name": "Lesotho",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Lesotho.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Lesotho.png"
     },
     {
       "name": "Liberia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Liberia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Liberia.png"
     },
     {
       "name": "Libya",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Libya.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Libya.png"
     },
     {
       "name": "Liechtenstein",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Liechtenstein.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Liechtenstein.png"
     },
     {
       "name": "Lithuania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Lithuania.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Lithuania.png"
     },
     {
       "name": "Luxembourg",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Luxembourg.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Luxembourg.png"
     },
     {
       "name": "Macau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Macau.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Macau.png"
     },
     {
       "name": "Madagascar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Madagascar.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Madagascar.png"
     },
     {
       "name": "Malawi",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Malawi.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Malawi.png"
     },
     {
       "name": "Malaysia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Malaysia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Malaysia.png"
     },
     {
       "name": "Maldives",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Maldives.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Maldives.png"
     },
     {
       "name": "Mali",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mali.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mali.png"
     },
     {
       "name": "Malta",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Malta.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Malta.png"
     },
     {
       "name": "Marshall Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Marshall%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Marshall%20Islands.png"
     },
     {
       "name": "Martinique",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Martinique.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Martinique.png"
     },
     {
       "name": "Mauritania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mauritania.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mauritania.png"
     },
     {
       "name": "Mauritius",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mauritius.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mauritius.png"
     },
     {
       "name": "Mayotte",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mayotte.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mayotte.png"
     },
     {
       "name": "Mexico",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mexico.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mexico.png"
     },
     {
       "name": "Micronesia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Micronesia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Micronesia.png"
     },
     {
       "name": "Moldova",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Moldova.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Moldova.png"
     },
     {
       "name": "Monaco",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Monaco.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Monaco.png"
     },
     {
       "name": "Mongolia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mongolia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mongolia.png"
     },
     {
       "name": "Montenegro",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Montenegro.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Montenegro.png"
     },
     {
       "name": "Montserrat",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Montserrat.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Montserrat.png"
     },
     {
       "name": "Morocco",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Morocco.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Morocco.png"
     },
     {
       "name": "Mozambique",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Mozambique.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mozambique.png"
     },
     {
       "name": "Myanmar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Myanmar.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Myanmar.png"
     },
     {
       "name": "Namibia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Namibia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Namibia.png"
     },
     {
       "name": "Nauru",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Nauru.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nauru.png"
     },
     {
       "name": "Nepal",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Nepal.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nepal.png"
     },
     {
       "name": "Netherlands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Netherlands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Netherlands.png"
     },
     {
       "name": "New Caledonia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/New%20Caledonia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/New%20Caledonia.png"
     },
     {
       "name": "New Zealand",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/New%20Zealand.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/New%20Zealand.png"
     },
     {
       "name": "Nicaragua",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Nicaragua.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nicaragua.png"
     },
     {
       "name": "Niger",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Niger.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Niger.png"
     },
     {
       "name": "Nigeria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Nigeria.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nigeria.png"
     },
     {
       "name": "Niue",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Niue.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Niue.png"
     },
     {
       "name": "Norfolk Island",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Norfolk%20Island.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Norfolk%20Island.png"
     },
     {
       "name": "North Korea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/North%20Korea.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/North%20Korea.png"
     },
     {
       "name": "North Macedonia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/North%20Macedonia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/North%20Macedonia.png"
     },
     {
       "name": "Northern Ireland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Northern%20Ireland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Northern%20Ireland.png"
     },
     {
       "name": "Northern Mariana Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Northern%20Mariana%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Northern%20Mariana%20Islands.png"
     },
     {
       "name": "Norway",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Norway.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Norway.png"
     },
     {
       "name": "Oman",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Oman.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Oman.png"
     },
     {
       "name": "Pakistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Pakistan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Pakistan.png"
     },
     {
       "name": "Palau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Palau.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Palau.png"
     },
     {
       "name": "Palestine",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Palestine.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Palestine.png"
     },
     {
       "name": "Panama",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Panama.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Panama.png"
     },
     {
       "name": "Papua New Guinea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Papua%20New%20Guinea.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Papua%20New%20Guinea.png"
     },
     {
       "name": "Paraguay",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Paraguay.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Paraguay.png"
     },
     {
       "name": "Peru",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Peru.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Peru.png"
     },
     {
       "name": "Philippines",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Philippines.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Philippines.png"
     },
     {
       "name": "Pitcairn Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Pitcairn%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Pitcairn%20Islands.png"
     },
     {
       "name": "Poland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Poland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Poland.png"
     },
     {
       "name": "Portugal",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Portugal.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Portugal.png"
     },
     {
       "name": "Puerto Rico",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Puerto%20Rico.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Puerto%20Rico.png"
     },
     {
       "name": "Qatar",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Qatar.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Qatar.png"
     },
     {
       "name": "Republic of the Congo",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Republic%20of%20the%20Congo.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Republic%20of%20the%20Congo.png"
     },
     {
       "name": "Reunion",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Reunion.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Reunion.png"
     },
     {
       "name": "Romania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Romania.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Romania.png"
     },
     {
       "name": "Russia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Russia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Russia.png"
     },
     {
       "name": "Rwanda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Rwanda.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Rwanda.png"
     },
     {
       "name": "Saint Barthelemy",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Barthelemy.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Barthelemy.png"
     },
     {
       "name": "Saint Helena Ascension and Tristan da Cunha",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Helena%20Ascension%20and%20Tristan%20da%20Cunha.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Helena%20Ascension%20and%20Tristan%20da%20Cunha.png"
     },
     {
       "name": "Saint Kitts and Nevis",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Kitts%20and%20Nevis.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Kitts%20and%20Nevis.png"
     },
     {
       "name": "Saint Lucia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Lucia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Lucia.png"
     },
     {
       "name": "Saint Martin",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Martin.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Martin.png"
     },
     {
       "name": "Saint Pierre and Miquelon",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Pierre%20and%20Miquelon.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Pierre%20and%20Miquelon.png"
     },
     {
       "name": "Saint Vincent and the Grenadines",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saint%20Vincent%20and%20the%20Grenadines.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Vincent%20and%20the%20Grenadines.png"
     },
     {
       "name": "Samoa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Samoa.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Samoa.png"
     },
     {
       "name": "San Marino",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/San%20Marino.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/San%20Marino.png"
     },
     {
       "name": "Sao Tome and Principe",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Sao%20Tome%20and%20Principe.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sao%20Tome%20and%20Principe.png"
     },
     {
       "name": "Saudi Arabia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Saudi%20Arabia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saudi%20Arabia.png"
     },
     {
       "name": "Scotland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Scotland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Scotland.png"
     },
     {
       "name": "Senegal",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Senegal.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Senegal.png"
     },
     {
       "name": "Serbia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Serbia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Serbia.png"
     },
     {
       "name": "Seychelles",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Seychelles.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Seychelles.png"
     },
     {
       "name": "Sierra Leone",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Sierra%20Leone.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sierra%20Leone.png"
     },
     {
       "name": "Singapore",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Singapore.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Singapore.png"
     },
     {
       "name": "Sint Maarten",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Sint%20Maarten.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sint%20Maarten.png"
     },
     {
       "name": "Slovakia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Slovakia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Slovakia.png"
     },
     {
       "name": "Slovenia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Slovenia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Slovenia.png"
     },
     {
       "name": "Solomon Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Solomon%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Solomon%20Islands.png"
     },
     {
       "name": "Somalia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Somalia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Somalia.png"
     },
     {
       "name": "South Africa",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/South%20Africa.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Africa.png"
     },
     {
       "name": "South Georgia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/South%20Georgia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Georgia.png"
     },
     {
       "name": "South Korea",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/South%20Korea.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Korea.png"
     },
     {
       "name": "South Sudan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/South%20Sudan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Sudan.png"
     },
     {
       "name": "Spain",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Spain.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Spain.png"
     },
     {
       "name": "Sri Lanka",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Sri%20Lanka.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sri%20Lanka.png"
     },
     {
       "name": "Sudan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Sudan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sudan.png"
     },
     {
       "name": "Suriname",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Suriname.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Suriname.png"
     },
     {
       "name": "Svalbard and Jan Mayen",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Svalbard%20and%20Jan%20Mayen.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Svalbard%20and%20Jan%20Mayen.png"
     },
     {
       "name": "Sweden",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Sweden.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sweden.png"
     },
     {
       "name": "Switzerland",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Switzerland.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Switzerland.png"
     },
     {
       "name": "Syria",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Syria.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Syria.png"
     },
     {
       "name": "Taiwan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Taiwan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Taiwan.png"
     },
     {
       "name": "Tajikistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Tajikistan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tajikistan.png"
     },
     {
       "name": "Tanzania",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Tanzania.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tanzania.png"
     },
     {
       "name": "Thailand",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Thailand.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Thailand.png"
     },
     {
       "name": "Timor-Leste",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Timor-Leste.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Timor-Leste.png"
     },
     {
       "name": "Togo",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Togo.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Togo.png"
     },
     {
       "name": "Tokelau",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Tokelau.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tokelau.png"
     },
     {
       "name": "Tonga",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Tonga.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tonga.png"
     },
     {
       "name": "Trinidad and Tobago",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Trinidad%20and%20Tobago.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Trinidad%20and%20Tobago.png"
     },
     {
       "name": "Tunisia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Tunisia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tunisia.png"
     },
     {
       "name": "Turkey",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Turkey.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Turkey.png"
     },
     {
       "name": "Turkmenistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Turkmenistan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Turkmenistan.png"
     },
     {
       "name": "Turks and Caicos Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Turks%20and%20Caicos%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Turks%20and%20Caicos%20Islands.png"
     },
     {
       "name": "Tuvalu",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Tuvalu.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tuvalu.png"
     },
     {
       "name": "Uganda",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Uganda.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Uganda.png"
     },
     {
       "name": "Ukraine",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Ukraine.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ukraine.png"
     },
     {
       "name": "United Arab Emirates",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/United%20Arab%20Emirates.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20Arab%20Emirates.png"
     },
     {
       "name": "United Kingdom",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/United%20Kingdom.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20Kingdom.png"
     },
     {
       "name": "United Nations",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/United%20Nations.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20Nations.png"
     },
     {
       "name": "United States Minor Outlying Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/United%20States%20Minor%20Outlying%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20States%20Minor%20Outlying%20Islands.png"
     },
     {
       "name": "United States Virgin Islands",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/United%20States%20Virgin%20Islands.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20States%20Virgin%20Islands.png"
     },
     {
       "name": "United States",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/United%20States.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20States.png"
     },
     {
       "name": "Uruguay",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Uruguay.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Uruguay.png"
     },
     {
       "name": "Uzbekistan",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Uzbekistan.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Uzbekistan.png"
     },
     {
       "name": "Vanuatu",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Vanuatu.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Vanuatu.png"
     },
     {
       "name": "Vatican City Holy See",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Vatican%20City%20Holy%20See.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Vatican%20City%20Holy%20See.png"
     },
     {
       "name": "Venezuela",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Venezuela.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Venezuela.png"
     },
     {
       "name": "Vietnam",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Vietnam.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Vietnam.png"
     },
     {
       "name": "Wales",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Wales.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Wales.png"
     },
     {
       "name": "Wallis and Futuna",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Wallis%20and%20Futuna.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Wallis%20and%20Futuna.png"
     },
     {
       "name": "Western Sahara",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Western%20Sahara.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Western%20Sahara.png"
     },
     {
       "name": "Yemen",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Yemen.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Yemen.png"
     },
     {
       "name": "Zambia",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Zambia.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Zambia.png"
     },
     {
       "name": "Zimbabwe",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-564x404/Zimbabwe.png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Zimbabwe.png"
     }
   ]
 }
