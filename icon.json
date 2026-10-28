@@ -9810,6 +9810,34 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Antarctica.png"
     },
     {
+      "name": "Arrow_Left_Orange",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Left_Orange.png"
+    },
+    {
+      "name": "Arrow_Right_Green",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Right_Green.png"
+    },
+    {
+      "name": "Arrow_Right_Orange",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Right_Orange.png"
+    },
+    {
+      "name": "Arrow_Right_Pink",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Right_Pink.png"
+    },
+    {
+      "name": "Arrow_Right_Purple",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Right_Purple.png"
+    },
+    {
+      "name": "Arrow_Right_Red",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Right_Red.png"
+    },
+    {
+      "name": "Arrow_Right_Teal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Arrow_Right_Teal.png"
+    },
+    {
       "name": "Asia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Asia.png"
     },
@@ -9820,6 +9848,10 @@
     {
       "name": "Australia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Australia.png"
+    },
+    {
+      "name": "Check_Teal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Check_Teal.png"
     },
     {
       "name": "China_Mainland",
@@ -9834,6 +9866,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/China_Mainland2_Solid.png"
     },
     {
+      "name": "Download_Sky",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Download_Sky.png"
+    },
+    {
       "name": "Europe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Europe.png"
     },
@@ -9844,6 +9880,10 @@
     {
       "name": "Globe_Black_White",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Black_White.png"
+    },
+    {
+      "name": "Globe_Blue",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Blue.png"
     },
     {
       "name": "Globe_Blue_Gradient",
@@ -9870,12 +9910,20 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Desktop_Stand.png"
     },
     {
+      "name": "Globe_Green",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Green.png"
+    },
+    {
       "name": "Globe_Grey_Flat",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Grey_Flat.png"
     },
     {
       "name": "Globe_Grey_White",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Grey_White.png"
+    },
+    {
+      "name": "Globe_Orange",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Orange.png"
     },
     {
       "name": "Globe_Ortho_Americas",
@@ -9914,8 +9962,48 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Ortho_Ring.png"
     },
     {
+      "name": "Globe_Purple",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Purple.png"
+    },
+    {
+      "name": "Globe_Red",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Red.png"
+    },
+    {
+      "name": "Globe_Teal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Teal.png"
+    },
+    {
       "name": "Globe_Waves",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Waves.png"
+    },
+    {
+      "name": "Home_Navy",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Home_Navy.png"
+    },
+    {
+      "name": "Hong_Kong",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Hong_Kong.png"
+    },
+    {
+      "name": "House_Blue",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/House_Blue.png"
+    },
+    {
+      "name": "House_Green",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/House_Green.png"
+    },
+    {
+      "name": "House_Orange",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/House_Orange.png"
+    },
+    {
+      "name": "House_Purple",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/House_Purple.png"
+    },
+    {
+      "name": "House_Red",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/House_Red.png"
     },
     {
       "name": "Japan",
@@ -9924,6 +10012,10 @@
     {
       "name": "LA_Map",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/LA_Map.png"
+    },
+    {
+      "name": "Lock_Slate",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Lock_Slate.png"
     },
     {
       "name": "Malaysia",
@@ -9938,12 +10030,28 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Oceania.png"
     },
     {
+      "name": "Plus_Red",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Plus_Red.png"
+    },
+    {
+      "name": "Search_Indigo",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Search_Indigo.png"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Singapore.png"
+    },
+    {
       "name": "South_America",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/South_America.png"
     },
     {
       "name": "South_Korea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/South_Korea.png"
+    },
+    {
+      "name": "Star_Amber",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Star_Amber.png"
     },
     {
       "name": "Taiwan",
@@ -9968,6 +10076,30 @@
     {
       "name": "World",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/World.png"
+    },
+    {
+      "name": "X_Close_Blue",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/X_Close_Blue.png"
+    },
+    {
+      "name": "X_Close_Green",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/X_Close_Green.png"
+    },
+    {
+      "name": "X_Close_Orange",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/X_Close_Orange.png"
+    },
+    {
+      "name": "X_Close_Pink",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/X_Close_Pink.png"
+    },
+    {
+      "name": "X_Close_Purple",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/X_Close_Purple.png"
+    },
+    {
+      "name": "X_Close_Teal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/X_Close_Teal.png"
     }
   ]
 }
