@@ -394,6 +394,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Apol.png"
     },
     {
+      "name": "App Store",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/App%20Store.png"
+    },
+    {
       "name": "App-Store-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/App-Store-2.png"
     },
@@ -416,6 +420,10 @@
     {
       "name": "AppStore",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/AppStore.png"
+    },
+    {
+      "name": "Apple Store",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Apple%20Store.jpg"
     },
     {
       "name": "Apple-10",
@@ -1006,6 +1014,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Bookpedia.png"
     },
     {
+      "name": "Books",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Books.jpg"
+    },
+    {
       "name": "BosLife-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/BosLife-2.png"
     },
@@ -1054,6 +1066,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Bybit.png"
     },
     {
+      "name": "Bybit_ New Financial Platform",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Bybit_%20New%20Financial%20Platform.jpg"
+    },
+    {
+      "name": "Bybit_ New Financial Platform_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Bybit_%20New%20Financial%20Platform_rounded.png"
+    },
+    {
       "name": "Byg",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Byg.png"
     },
@@ -1084,6 +1104,26 @@
     {
       "name": "CSsaomiaoquannengwang",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/CSsaomiaoquannengwang.png"
+    },
+    {
+      "name": "Calculator",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Calculator.jpg"
+    },
+    {
+      "name": "Calendar",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Calendar.jpg"
+    },
+    {
+      "name": "Camera",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Camera.jpg"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/ChatGPT.jpg"
+    },
+    {
+      "name": "ChatGPT_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/ChatGPT_rounded.png"
     },
     {
       "name": "China_Unicom",
@@ -1130,8 +1170,20 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Claude.png"
     },
     {
+      "name": "Clock",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Clock.jpg"
+    },
+    {
       "name": "Clouddrive",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Clouddrive.png"
+    },
+    {
+      "name": "Cloudflare Workplace",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Cloudflare%20Workplace.jpg"
+    },
+    {
+      "name": "Cloudflare Workplace_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Cloudflare%20Workplace_rounded.png"
     },
     {
       "name": "Cloudflare-2",
@@ -1167,7 +1219,7 @@
     },
     {
       "name": "Cmb (2)",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Cmb%20(2).png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Cmb%20%282%29.png"
     },
     {
       "name": "Cmb-2",
@@ -1206,8 +1258,16 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Colosseum.png"
     },
     {
+      "name": "Compass",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Compass.jpg"
+    },
+    {
       "name": "Conair",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Conair.png"
+    },
+    {
+      "name": "Contacts",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Contacts.jpg"
     },
     {
       "name": "Copilot-2",
@@ -1786,6 +1846,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/F.png"
     },
     {
+      "name": "FaceTime",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FaceTime.jpg"
+    },
+    {
       "name": "Facebook-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Facebook-2.png"
     },
@@ -1826,6 +1890,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Fanqie-Novel.png"
     },
     {
+      "name": "FastestVPN – Security for WiFi",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FastestVPN%20%E2%80%93%20Security%20for%20WiFi.jpg"
+    },
+    {
+      "name": "FastestVPN – Security for WiFi_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FastestVPN%20%E2%80%93%20Security%20for%20WiFi_rounded.png"
+    },
+    {
       "name": "Feizhu",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Feizhu.png"
     },
@@ -1844,6 +1916,10 @@
     {
       "name": "Fileball",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Fileball.png"
+    },
+    {
+      "name": "Files",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Files.jpg"
     },
     {
       "name": "Filmix",
@@ -1878,6 +1954,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Final.png"
     },
     {
+      "name": "Find My",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Find%20My.jpg"
+    },
+    {
       "name": "Find-My-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Find-My-2.png"
     },
@@ -1908,6 +1988,10 @@
     {
       "name": "FishPort",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FishPort.png"
+    },
+    {
+      "name": "Fitness",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Fitness.jpg"
     },
     {
       "name": "Flamingo-2",
@@ -1956,6 +2040,10 @@
     {
       "name": "FreeEmby",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FreeEmby.png"
+    },
+    {
+      "name": "Freeform",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Freeform.jpg"
     },
     {
       "name": "Fries",
@@ -2014,8 +2102,16 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Game.png"
     },
     {
+      "name": "Games",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Games.jpg"
+    },
+    {
       "name": "GaodeMap",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/GaodeMap.png"
+    },
+    {
+      "name": "GarageBand",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/GarageBand.jpg"
     },
     {
       "name": "Gateio",
@@ -2178,6 +2274,22 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Goodnotes.png"
     },
     {
+      "name": "Google Cloud Events",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Cloud%20Events.jpg"
+    },
+    {
+      "name": "Google Cloud Events_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Cloud%20Events_rounded.png"
+    },
+    {
+      "name": "Google Gemini",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Gemini.jpg"
+    },
+    {
+      "name": "Google Gemini_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Gemini_rounded.png"
+    },
+    {
       "name": "Google-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google-2.png"
     },
@@ -2334,6 +2446,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Greencloud.png"
     },
     {
+      "name": "Grok AI",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Grok%20AI.jpg"
+    },
+    {
+      "name": "Grok AI_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Grok%20AI_rounded.png"
+    },
+    {
       "name": "Grok-AI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Grok-AI.png"
     },
@@ -2438,6 +2558,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Hc.png"
     },
     {
+      "name": "Health",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Health.jpg"
+    },
+    {
       "name": "Heart-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Heart-2.png"
     },
@@ -2500,6 +2624,10 @@
     {
       "name": "Home-4",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Home-4.png"
+    },
+    {
+      "name": "Home",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Home.jpg"
     },
     {
       "name": "Home",
@@ -2762,6 +2890,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Joox.png"
     },
     {
+      "name": "Journal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Journal.jpg"
+    },
+    {
       "name": "JuDog",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/JuDog.png"
     },
@@ -2808,6 +2940,10 @@
     {
       "name": "Kevin",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Kevin.png"
+    },
+    {
+      "name": "Keynote",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Keynote.jpg"
     },
     {
       "name": "Kfc",
@@ -3290,6 +3426,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Magic.png"
     },
     {
+      "name": "Magnifier",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Magnifier.jpg"
+    },
+    {
       "name": "Magpie",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Magpie.png"
     },
@@ -3319,6 +3459,10 @@
     },
     {
       "name": "Mail",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Mail.jpg"
+    },
+    {
+      "name": "Mail",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Mail.png"
     },
     {
@@ -3342,6 +3486,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Manxiaosihanman.png"
     },
     {
+      "name": "Maps",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Maps.jpg"
+    },
+    {
       "name": "Max-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Max-2.png"
     },
@@ -3360,6 +3508,10 @@
     {
       "name": "Mcdonalds",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Mcdonalds.png"
+    },
+    {
+      "name": "Measure",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Measure.jpg"
     },
     {
       "name": "Media-2",
@@ -3414,6 +3566,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Message.png"
     },
     {
+      "name": "Messages",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Messages.jpg"
+    },
+    {
       "name": "Meta-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Meta-2.png"
     },
@@ -3428,6 +3584,14 @@
     {
       "name": "Mickey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Mickey.png"
+    },
+    {
+      "name": "Microsoft Outlook",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Microsoft%20Outlook.jpg"
+    },
+    {
+      "name": "Microsoft Outlook_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Microsoft%20Outlook_rounded.png"
     },
     {
       "name": "Microsoft-2",
@@ -3686,6 +3850,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Netflix.png"
     },
     {
+      "name": "News",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/News.jpg"
+    },
+    {
       "name": "Nex",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Nex.png"
     },
@@ -3770,6 +3938,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Nodeseek.png"
     },
     {
+      "name": "Notes",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Notes.jpg"
+    },
+    {
       "name": "Notion-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Notion-2.png"
     },
@@ -3808,6 +3980,10 @@
     {
       "name": "Null-Nation",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Null-Nation.png"
+    },
+    {
+      "name": "Numbers",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Numbers.jpg"
     },
     {
       "name": "Nvidia",
@@ -3946,6 +4122,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Paga.png"
     },
     {
+      "name": "Pages",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Pages.jpg"
+    },
+    {
       "name": "Paijitang",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Paijitang.png"
     },
@@ -3976,6 +4156,10 @@
     {
       "name": "Paramount",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Paramount.png"
+    },
+    {
+      "name": "Passwords",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Passwords.jpg"
     },
     {
       "name": "Paul",
@@ -4050,8 +4234,16 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/PetronasTowers.png"
     },
     {
+      "name": "Phone",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Phone.jpg"
+    },
+    {
       "name": "Photo-2026-09-25-09-36",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Photo-2026-09-25-09-36.png"
+    },
+    {
+      "name": "Photos",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Photos.jpg"
     },
     {
       "name": "Pig-2",
@@ -4178,6 +4370,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Plus.png"
     },
     {
+      "name": "Podcasts",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Podcasts.jpg"
+    },
+    {
       "name": "Polo-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Polo-2.png"
     },
@@ -4228,6 +4424,10 @@
     {
       "name": "PostBox",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/PostBox.png"
+    },
+    {
+      "name": "Preview",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Preview.jpg"
     },
     {
       "name": "Prime-Video-2",
@@ -4506,6 +4706,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Rednote.png"
     },
     {
+      "name": "RedotPay_ Crypto Card & Pay",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/RedotPay_%20Crypto%20Card%20%26%20Pay.jpg"
+    },
+    {
+      "name": "RedotPay_ Crypto Card & Pay_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/RedotPay_%20Crypto%20Card%20%26%20Pay_rounded.png"
+    },
+    {
       "name": "Redotpay",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Redotpay.png"
     },
@@ -4532,6 +4740,10 @@
     {
       "name": "Relay",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Relay.png"
+    },
+    {
+      "name": "Reminders",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Reminders.jpg"
     },
     {
       "name": "Renrenzhuiju",
@@ -4667,6 +4879,10 @@
     },
     {
       "name": "Safari",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Safari.jpg"
+    },
+    {
+      "name": "Safari",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Safari.png"
     },
     {
@@ -4722,8 +4938,12 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/SeseEmby.png"
     },
     {
+      "name": "Settings",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Settings.png"
+    },
+    {
       "name": "Settings_(iOS)",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Settings_(iOS).png"
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Settings_%28iOS%29.png"
     },
     {
       "name": "Shadowrocket-2",
@@ -4776,6 +4996,10 @@
     {
       "name": "Shortcuts-4",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Shortcuts-4.png"
+    },
+    {
+      "name": "Shortcuts",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Shortcuts.jpg"
     },
     {
       "name": "Shortcuts",
@@ -4890,6 +5114,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Spdb.png"
     },
     {
+      "name": "Speedtest by Ookla",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Speedtest%20by%20Ookla.jpg"
+    },
+    {
+      "name": "Speedtest by Ookla_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Speedtest%20by%20Ookla_rounded.png"
+    },
+    {
       "name": "Speedtest-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Speedtest-2.png"
     },
@@ -4952,6 +5184,14 @@
     {
       "name": "Spotify",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Spotify.png"
+    },
+    {
+      "name": "Spotify_ Music and Podcasts",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Spotify_%20Music%20and%20Podcasts.jpg"
+    },
+    {
+      "name": "Spotify_ Music and Podcasts_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Spotify_%20Music%20and%20Podcasts_rounded.png"
     },
     {
       "name": "Ssid-2",
@@ -5076,6 +5316,10 @@
     {
       "name": "Steam",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Steam.png"
+    },
+    {
+      "name": "Stocks",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Stocks.jpg"
     },
     {
       "name": "StoneHenge",
@@ -5302,6 +5546,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/SydneyOperaHouse.png"
     },
     {
+      "name": "TV",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/TV.jpg"
+    },
+    {
       "name": "TVBAnywhere-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/TVBAnywhere-2.png"
     },
@@ -5334,6 +5582,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Talkatone.png"
     },
     {
+      "name": "Talkatone_ WiFi Text & Calls",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Talkatone_%20WiFi%20Text%20%26%20Calls.jpg"
+    },
+    {
+      "name": "Talkatone_ WiFi Text & Calls_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Talkatone_%20WiFi%20Text%20%26%20Calls_rounded.png"
+    },
+    {
       "name": "Tangxinvlog",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Tangxinvlog.png"
     },
@@ -5364,6 +5620,14 @@
     {
       "name": "Teams",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Teams.png"
+    },
+    {
+      "name": "Telegram Messenger",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Telegram%20Messenger.jpg"
+    },
+    {
+      "name": "Telegram Messenger_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Telegram%20Messenger_rounded.png"
     },
     {
       "name": "Telegram-10",
@@ -5602,6 +5866,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Tinder.png"
     },
     {
+      "name": "Tips",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Tips.jpg"
+    },
+    {
       "name": "Tls",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Tls.png"
     },
@@ -5636,6 +5904,10 @@
     {
       "name": "Traffic",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Traffic.png"
+    },
+    {
+      "name": "Translate",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Translate.jpg"
     },
     {
       "name": "TreeDiagram",
@@ -5930,6 +6202,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Vmiss.png"
     },
     {
+      "name": "Voice Memos",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Voice%20Memos.jpg"
+    },
+    {
       "name": "Vsco",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Vsco.png"
     },
@@ -5948,6 +6224,10 @@
     {
       "name": "Walbum",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Walbum.png"
+    },
+    {
+      "name": "Wallet",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Wallet.jpg"
     },
     {
       "name": "Wangfeimaowfm",
@@ -5998,8 +6278,20 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Warpcomet.png"
     },
     {
+      "name": "Watch",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Watch.jpg"
+    },
+    {
       "name": "WeChat-3",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/WeChat-3.png"
+    },
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/WeChat.jpg"
+    },
+    {
+      "name": "WeChat_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/WeChat_rounded.png"
     },
     {
       "name": "WeTV-2",
@@ -6016,6 +6308,10 @@
     {
       "name": "WeTV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/WeTV.png"
+    },
+    {
+      "name": "Weather",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Weather.jpg"
     },
     {
       "name": "Webdav",
@@ -6366,6 +6662,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Xunlei.png"
     },
     {
+      "name": "X（前身为Twitter）",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/X%EF%BC%88%E5%89%8D%E8%BA%AB%E4%B8%BATwitter%EF%BC%89.jpg"
+    },
+    {
+      "name": "X（前身为Twitter）_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/X%EF%BC%88%E5%89%8D%E8%BA%AB%E4%B8%BATwitter%EF%BC%89_rounded.png"
+    },
+    {
       "name": "Yahoo-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Yahoo-2.png"
     },
@@ -6396,6 +6700,14 @@
     {
       "name": "YoYu",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YoYu.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube%20Music.jpg"
+    },
+    {
+      "name": "YouTube Music_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube%20Music_rounded.png"
     },
     {
       "name": "YouTube-10",
@@ -6455,11 +6767,19 @@
     },
     {
       "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube.jpg"
+    },
+    {
+      "name": "YouTube",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube.png"
     },
     {
       "name": "YouTubeMusic",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTubeMusic.png"
+    },
+    {
+      "name": "YouTube_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube_rounded.png"
     },
     {
       "name": "Youku-2",
@@ -6586,6 +6906,38 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Zuiyou.png"
     },
     {
+      "name": "bilibili - Anime · Video HD",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili%20-%20Anime%20%C2%B7%20Video%20HD.jpg"
+    },
+    {
+      "name": "bilibili - Anime · Video HD_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili%20-%20Anime%20%C2%B7%20Video%20HD_rounded.png"
+    },
+    {
+      "name": "bilibili_哔哩哔哩概念",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5.jpg"
+    },
+    {
+      "name": "bilibili_哔哩哔哩概念_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5_rounded.png"
+    },
+    {
+      "name": "binance",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/binance.jpg"
+    },
+    {
+      "name": "binance_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/binance_rounded.png"
+    },
+    {
+      "name": "douyin_抖音",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/douyin_%E6%8A%96%E9%9F%B3.jpg"
+    },
+    {
+      "name": "douyin_抖音_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/douyin_%E6%8A%96%E9%9F%B3_rounded.png"
+    },
+    {
       "name": "encoreTVB-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/encoreTVB-2.png"
     },
@@ -6618,6 +6970,14 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/fuboTV.png"
     },
     {
+      "name": "home",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/home.jpg"
+    },
+    {
+      "name": "home_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/home_rounded.png"
+    },
+    {
       "name": "iCloud-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/iCloud-2.png"
     },
@@ -6628,6 +6988,10 @@
     {
       "name": "iCloud",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/iCloud.png"
+    },
+    {
+      "name": "iMovie",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/iMovie.jpg"
     },
     {
       "name": "iQIYI-2",
@@ -6670,6 +7034,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/iRingo.png"
     },
     {
+      "name": "iTunes Store",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/iTunes%20Store.jpg"
+    },
+    {
       "name": "infiniPort",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/infiniPort.png"
     },
@@ -6684,6 +7052,14 @@
     {
       "name": "loonsurgeEgern",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/loonsurgeEgern.png"
+    },
+    {
+      "name": "luyouqi",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/luyouqi.jpg"
+    },
+    {
+      "name": "luyouqi_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/luyouqi_rounded.png"
     },
     {
       "name": "myTV-Super-2",
@@ -6710,6 +7086,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/ssLinks.png"
     },
     {
+      "name": "wechat_rounded",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/wechat_rounded.png"
+    },
+    {
       "name": "xTerm",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/xTerm.png"
     },
@@ -6720,182 +7100,6 @@
     {
       "name": "xiaomiCar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/xiaomiCar.png"
-    },
-    {
-      "name": "wechat_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/wechat_rounded.png"
-    },
-    {
-      "name": "YouTube Music",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube%20Music.jpg"
-    },
-    {
-      "name": "YouTube Music_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube%20Music_rounded.png"
-    },
-    {
-      "name": "YouTube_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/YouTube_rounded.png"
-    },
-    {
-      "name": "FastestVPN – Security for WiFi",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FastestVPN%20%E2%80%93%20Security%20for%20WiFi.jpg"
-    },
-    {
-      "name": "FastestVPN – Security for WiFi_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/FastestVPN%20%E2%80%93%20Security%20for%20WiFi_rounded.png"
-    },
-    {
-      "name": "Cloudflare Workplace",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Cloudflare%20Workplace.jpg"
-    },
-    {
-      "name": "Cloudflare Workplace_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Cloudflare%20Workplace_rounded.png"
-    },
-    {
-      "name": "home",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/home.jpg"
-    },
-    {
-      "name": "home_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/home_rounded.png"
-    },
-    {
-      "name": "Google Cloud Events",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Cloud%20Events.jpg"
-    },
-    {
-      "name": "Google Cloud Events_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Cloud%20Events_rounded.png"
-    },
-    {
-      "name": "luyouqi",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/luyouqi.jpg"
-    },
-    {
-      "name": "luyouqi_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/luyouqi_rounded.png"
-    },
-    {
-      "name": "X（前身为Twitter）",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/X%EF%BC%88%E5%89%8D%E8%BA%AB%E4%B8%BATwitter%EF%BC%89.jpg"
-    },
-    {
-      "name": "X（前身为Twitter）_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/X%EF%BC%88%E5%89%8D%E8%BA%AB%E4%B8%BATwitter%EF%BC%89_rounded.png"
-    },
-    {
-      "name": "Telegram Messenger",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Telegram%20Messenger.jpg"
-    },
-    {
-      "name": "Telegram Messenger_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Telegram%20Messenger_rounded.png"
-    },
-    {
-      "name": "ChatGPT",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/ChatGPT.jpg"
-    },
-    {
-      "name": "ChatGPT_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/ChatGPT_rounded.png"
-    },
-    {
-      "name": "Google Gemini",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Gemini.jpg"
-    },
-    {
-      "name": "Google Gemini_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Google%20Gemini_rounded.png"
-    },
-    {
-      "name": "Grok AI",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Grok%20AI.jpg"
-    },
-    {
-      "name": "Grok AI_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Grok%20AI_rounded.png"
-    },
-    {
-      "name": "Bybit_ New Financial Platform",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Bybit_%20New%20Financial%20Platform.jpg"
-    },
-    {
-      "name": "Bybit_ New Financial Platform_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Bybit_%20New%20Financial%20Platform_rounded.png"
-    },
-    {
-      "name": "RedotPay_ Crypto Card & Pay",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/RedotPay_%20Crypto%20Card%20%26%20Pay.jpg"
-    },
-    {
-      "name": "RedotPay_ Crypto Card & Pay_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/RedotPay_%20Crypto%20Card%20%26%20Pay_rounded.png"
-    },
-    {
-      "name": "Speedtest by Ookla",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Speedtest%20by%20Ookla.jpg"
-    },
-    {
-      "name": "Speedtest by Ookla_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Speedtest%20by%20Ookla_rounded.png"
-    },
-    {
-      "name": "Spotify_ Music and Podcasts",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Spotify_%20Music%20and%20Podcasts.jpg"
-    },
-    {
-      "name": "Spotify_ Music and Podcasts_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Spotify_%20Music%20and%20Podcasts_rounded.png"
-    },
-    {
-      "name": "Talkatone_ WiFi Text & Calls",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Talkatone_%20WiFi%20Text%20%26%20Calls.jpg"
-    },
-    {
-      "name": "Talkatone_ WiFi Text & Calls_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Talkatone_%20WiFi%20Text%20%26%20Calls_rounded.png"
-    },
-    {
-      "name": "WeChat",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/WeChat.jpg"
-    },
-    {
-      "name": "WeChat_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/WeChat_rounded.png"
-    },
-    {
-      "name": "bilibili - Anime · Video HD",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili%20-%20Anime%20%C2%B7%20Video%20HD.jpg"
-    },
-    {
-      "name": "bilibili - Anime · Video HD_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili%20-%20Anime%20%C2%B7%20Video%20HD_rounded.png"
-    },
-    {
-      "name": "bilibili_哔哩哔哩概念",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5.jpg"
-    },
-    {
-      "name": "bilibili_哔哩哔哩概念_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/bilibili_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5_rounded.png"
-    },
-    {
-      "name": "binance",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/binance.jpg"
-    },
-    {
-      "name": "binance_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/binance_rounded.png"
-    },
-    {
-      "name": "douyin_抖音",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/douyin_%E6%8A%96%E9%9F%B3.jpg"
-    },
-    {
-      "name": "douyin_抖音_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/douyin_%E6%8A%96%E9%9F%B3_rounded.png"
     },
     {
       "name": "小红书 - 你的生活兴趣社区",
@@ -6922,3075 +7126,3067 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/%E9%97%B2%E9%B1%BC%20-%20%E4%B8%8A%E9%97%B2%E9%B1%BC%EF%BC%8C%E8%B5%9A%E4%B8%80%E7%AC%94%20%21_rounded.png"
     },
     {
-      "name": "Microsoft Outlook",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Microsoft%20Outlook.jpg"
-    },
-    {
-      "name": "Microsoft Outlook_rounded",
-      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Microsoft%20Outlook_rounded.png"
-    },
-    {
-      "name": "Afghanistan-cartoon",
+      "name": "Afghanistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Afghanistan.png"
     },
     {
-      "name": "Aland Islands-cartoon",
+      "name": "Aland Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Aland%20Islands.png"
     },
     {
-      "name": "Albania-cartoon",
+      "name": "Albania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Albania.png"
     },
     {
-      "name": "Algeria-cartoon",
+      "name": "Algeria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Algeria.png"
     },
     {
-      "name": "American Samoa-cartoon",
+      "name": "American Samoa",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/American%20Samoa.png"
     },
     {
-      "name": "Andorra-cartoon",
+      "name": "Andorra",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Andorra.png"
     },
     {
-      "name": "Angola-cartoon",
+      "name": "Angola",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Angola.png"
     },
     {
-      "name": "Anguilla-cartoon",
+      "name": "Anguilla",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Anguilla.png"
     },
     {
-      "name": "Antarctica-cartoon",
+      "name": "Antarctica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Antarctica.png"
     },
     {
-      "name": "Antigua and Barbuda-cartoon",
+      "name": "Antigua and Barbuda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Antigua%20and%20Barbuda.png"
     },
     {
-      "name": "Argentina-cartoon",
+      "name": "Argentina",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Argentina.png"
     },
     {
-      "name": "Armenia-cartoon",
+      "name": "Armenia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Armenia.png"
     },
     {
-      "name": "Aruba-cartoon",
+      "name": "Aruba",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Aruba.png"
     },
     {
-      "name": "Australia-cartoon",
+      "name": "Australia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Australia.png"
     },
     {
-      "name": "Austria-cartoon",
+      "name": "Austria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Austria.png"
     },
     {
-      "name": "Azerbaijan-cartoon",
+      "name": "Azerbaijan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Azerbaijan.png"
     },
     {
-      "name": "Bahamas-cartoon",
+      "name": "Bahamas",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bahamas.png"
     },
     {
-      "name": "Bahrain-cartoon",
+      "name": "Bahrain",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bahrain.png"
     },
     {
-      "name": "Bangladesh-cartoon",
+      "name": "Bangladesh",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bangladesh.png"
     },
     {
-      "name": "Barbados-cartoon",
+      "name": "Barbados",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Barbados.png"
     },
     {
-      "name": "Belarus-cartoon",
+      "name": "Belarus",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Belarus.png"
     },
     {
-      "name": "Belgium-cartoon",
+      "name": "Belgium",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Belgium.png"
     },
     {
-      "name": "Belize-cartoon",
+      "name": "Belize",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Belize.png"
     },
     {
-      "name": "Benin-cartoon",
+      "name": "Benin",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Benin.png"
     },
     {
-      "name": "Bermuda-cartoon",
+      "name": "Bermuda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bermuda.png"
     },
     {
-      "name": "Bhutan-cartoon",
+      "name": "Bhutan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bhutan.png"
     },
     {
-      "name": "Bolivia-cartoon",
+      "name": "Bolivia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bolivia.png"
     },
     {
-      "name": "Bosnia and Herzegovina-cartoon",
+      "name": "Bosnia and Herzegovina",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bosnia%20and%20Herzegovina.png"
     },
     {
-      "name": "Botswana-cartoon",
+      "name": "Botswana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Botswana.png"
     },
     {
-      "name": "Bouvet Island-cartoon",
+      "name": "Bouvet Island",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bouvet%20Island.png"
     },
     {
-      "name": "Brazil-cartoon",
+      "name": "Brazil",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Brazil.png"
     },
     {
-      "name": "British Indian Ocean Territory-cartoon",
+      "name": "British Indian Ocean Territory",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/British%20Indian%20Ocean%20Territory.png"
     },
     {
-      "name": "British Virgin Islands-cartoon",
+      "name": "British Virgin Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/British%20Virgin%20Islands.png"
     },
     {
-      "name": "Brunei-cartoon",
+      "name": "Brunei",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Brunei.png"
     },
     {
-      "name": "Bulgaria-cartoon",
+      "name": "Bulgaria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Bulgaria.png"
     },
     {
-      "name": "Burkina Faso-cartoon",
+      "name": "Burkina Faso",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Burkina%20Faso.png"
     },
     {
-      "name": "Burundi-cartoon",
+      "name": "Burundi",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Burundi.png"
     },
     {
-      "name": "Cambodia-cartoon",
+      "name": "Cambodia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cambodia.png"
     },
     {
-      "name": "Cameroon-cartoon",
+      "name": "Cameroon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cameroon.png"
     },
     {
-      "name": "Canada-cartoon",
+      "name": "Canada",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Canada.png"
     },
     {
-      "name": "Cape Verde-cartoon",
+      "name": "Cape Verde",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cape%20Verde.png"
     },
     {
-      "name": "Caribbean Netherlands-cartoon",
+      "name": "Caribbean Netherlands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Caribbean%20Netherlands.png"
     },
     {
-      "name": "Cayman Islands-cartoon",
+      "name": "Cayman Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cayman%20Islands.png"
     },
     {
-      "name": "Central African Republic-cartoon",
+      "name": "Central African Republic",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Central%20African%20Republic.png"
     },
     {
-      "name": "Chad-cartoon",
+      "name": "Chad",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Chad.png"
     },
     {
-      "name": "Chile-cartoon",
+      "name": "Chile",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Chile.png"
     },
     {
-      "name": "China-cartoon",
+      "name": "China",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/China.png"
     },
     {
-      "name": "Christmas Island-cartoon",
+      "name": "Christmas Island",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Christmas%20Island.png"
     },
     {
-      "name": "Cocos Keeling Islands-cartoon",
+      "name": "Cocos Keeling Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cocos%20Keeling%20Islands.png"
     },
     {
-      "name": "Colombia-cartoon",
+      "name": "Colombia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Colombia.png"
     },
     {
-      "name": "Comoros-cartoon",
+      "name": "Comoros",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Comoros.png"
     },
     {
-      "name": "Cook Islands-cartoon",
+      "name": "Cook Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cook%20Islands.png"
     },
     {
-      "name": "Costa Rica-cartoon",
+      "name": "Costa Rica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Costa%20Rica.png"
     },
     {
-      "name": "Cote dIvoire Ivory Coast-cartoon",
+      "name": "Cote dIvoire Ivory Coast",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cote%20dIvoire%20Ivory%20Coast.png"
     },
     {
-      "name": "Croatia-cartoon",
+      "name": "Croatia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Croatia.png"
     },
     {
-      "name": "Cuba-cartoon",
+      "name": "Cuba",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cuba.png"
     },
     {
-      "name": "Curacao-cartoon",
+      "name": "Curacao",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Curacao.png"
     },
     {
-      "name": "Cyprus-cartoon",
+      "name": "Cyprus",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Cyprus.png"
     },
     {
-      "name": "Czechia-cartoon",
+      "name": "Czechia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Czechia.png"
     },
     {
-      "name": "DR Congo-cartoon",
+      "name": "DR Congo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/DR%20Congo.png"
     },
     {
-      "name": "Denmark-cartoon",
+      "name": "Denmark",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Denmark.png"
     },
     {
-      "name": "Djibouti-cartoon",
+      "name": "Djibouti",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Djibouti.png"
     },
     {
-      "name": "Dominica-cartoon",
+      "name": "Dominica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Dominica.png"
     },
     {
-      "name": "Dominican Republic-cartoon",
+      "name": "Dominican Republic",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Dominican%20Republic.png"
     },
     {
-      "name": "Ecuador-cartoon",
+      "name": "Ecuador",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ecuador.png"
     },
     {
-      "name": "Egypt-cartoon",
+      "name": "Egypt",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Egypt.png"
     },
     {
-      "name": "El Salvador-cartoon",
+      "name": "El Salvador",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/El%20Salvador.png"
     },
     {
-      "name": "England-cartoon",
+      "name": "England",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/England.png"
     },
     {
-      "name": "Equatorial Guinea-cartoon",
+      "name": "Equatorial Guinea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Equatorial%20Guinea.png"
     },
     {
-      "name": "Eritrea-cartoon",
+      "name": "Eritrea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Eritrea.png"
     },
     {
-      "name": "Estonia-cartoon",
+      "name": "Estonia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Estonia.png"
     },
     {
-      "name": "Eswatini Swaziland-cartoon",
+      "name": "Eswatini Swaziland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Eswatini%20Swaziland.png"
     },
     {
-      "name": "Ethiopia-cartoon",
+      "name": "Ethiopia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ethiopia.png"
     },
     {
-      "name": "European Union-cartoon",
+      "name": "European Union",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/European%20Union.png"
     },
     {
-      "name": "Falkland Islands-cartoon",
+      "name": "Falkland Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Falkland%20Islands.png"
     },
     {
-      "name": "Faroe Islands-cartoon",
+      "name": "Faroe Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Faroe%20Islands.png"
     },
     {
-      "name": "Fiji-cartoon",
+      "name": "Fiji",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Fiji.png"
     },
     {
-      "name": "Finland-cartoon",
+      "name": "Finland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Finland.png"
     },
     {
-      "name": "France-cartoon",
+      "name": "France",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/France.png"
     },
     {
-      "name": "French Guiana-cartoon",
+      "name": "French Guiana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/French%20Guiana.png"
     },
     {
-      "name": "French Polynesia-cartoon",
+      "name": "French Polynesia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/French%20Polynesia.png"
     },
     {
-      "name": "French Southern and Antarctic Lands-cartoon",
+      "name": "French Southern and Antarctic Lands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/French%20Southern%20and%20Antarctic%20Lands.png"
     },
     {
-      "name": "Gabon-cartoon",
+      "name": "Gabon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Gabon.png"
     },
     {
-      "name": "Gambia-cartoon",
+      "name": "Gambia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Gambia.png"
     },
     {
-      "name": "Georgia-cartoon",
+      "name": "Georgia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Georgia.png"
     },
     {
-      "name": "Germany-cartoon",
+      "name": "Germany",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Germany.png"
     },
     {
-      "name": "Ghana-cartoon",
+      "name": "Ghana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ghana.png"
     },
     {
-      "name": "Gibraltar-cartoon",
+      "name": "Gibraltar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Gibraltar.png"
     },
     {
-      "name": "Greece-cartoon",
+      "name": "Greece",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Greece.png"
     },
     {
-      "name": "Greenland-cartoon",
+      "name": "Greenland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Greenland.png"
     },
     {
-      "name": "Grenada-cartoon",
+      "name": "Grenada",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Grenada.png"
     },
     {
-      "name": "Guadeloupe-cartoon",
+      "name": "Guadeloupe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guadeloupe.png"
     },
     {
-      "name": "Guam-cartoon",
+      "name": "Guam",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guam.png"
     },
     {
-      "name": "Guatemala-cartoon",
+      "name": "Guatemala",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guatemala.png"
     },
     {
-      "name": "Guernsey-cartoon",
+      "name": "Guernsey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guernsey.png"
     },
     {
-      "name": "Guinea-Bissau-cartoon",
+      "name": "Guinea-Bissau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guinea-Bissau.png"
     },
     {
-      "name": "Guinea-cartoon",
+      "name": "Guinea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guinea.png"
     },
     {
-      "name": "Guyana-cartoon",
+      "name": "Guyana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Guyana.png"
     },
     {
-      "name": "Haiti-cartoon",
+      "name": "Haiti",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Haiti.png"
     },
     {
-      "name": "Heard Island and McDonald Islands-cartoon",
+      "name": "Heard Island and McDonald Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Heard%20Island%20and%20McDonald%20Islands.png"
     },
     {
-      "name": "Honduras-cartoon",
+      "name": "Honduras",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Honduras.png"
     },
     {
-      "name": "Hong Kong-cartoon",
+      "name": "Hong Kong",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Hong%20Kong.png"
     },
     {
-      "name": "Hungary-cartoon",
+      "name": "Hungary",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Hungary.png"
     },
     {
-      "name": "Iceland-cartoon",
+      "name": "Iceland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Iceland.png"
     },
     {
-      "name": "India-cartoon",
+      "name": "India",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/India.png"
     },
     {
-      "name": "Indonesia-cartoon",
+      "name": "Indonesia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Indonesia.png"
     },
     {
-      "name": "Iran-cartoon",
+      "name": "Iran",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Iran.png"
     },
     {
-      "name": "Iraq-cartoon",
+      "name": "Iraq",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Iraq.png"
     },
     {
-      "name": "Ireland-cartoon",
+      "name": "Ireland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ireland.png"
     },
     {
-      "name": "Isle of Man-cartoon",
+      "name": "Isle of Man",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Isle%20of%20Man.png"
     },
     {
-      "name": "Israel-cartoon",
+      "name": "Israel",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Israel.png"
     },
     {
-      "name": "Italy-cartoon",
+      "name": "Italy",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Italy.png"
     },
     {
-      "name": "Jamaica-cartoon",
+      "name": "Jamaica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Jamaica.png"
     },
     {
-      "name": "Japan-cartoon",
+      "name": "Japan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Japan.png"
     },
     {
-      "name": "Jersey-cartoon",
+      "name": "Jersey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Jersey.png"
     },
     {
-      "name": "Jordan-cartoon",
+      "name": "Jordan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Jordan.png"
     },
     {
-      "name": "Kazakhstan-cartoon",
+      "name": "Kazakhstan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kazakhstan.png"
     },
     {
-      "name": "Kenya-cartoon",
+      "name": "Kenya",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kenya.png"
     },
     {
-      "name": "Kiribati-cartoon",
+      "name": "Kiribati",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kiribati.png"
     },
     {
-      "name": "Kosovo-cartoon",
+      "name": "Kosovo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kosovo.png"
     },
     {
-      "name": "Kuwait-cartoon",
+      "name": "Kuwait",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kuwait.png"
     },
     {
-      "name": "Kyrgyzstan-cartoon",
+      "name": "Kyrgyzstan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Kyrgyzstan.png"
     },
     {
-      "name": "Laos-cartoon",
+      "name": "Laos",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Laos.png"
     },
     {
-      "name": "Latvia-cartoon",
+      "name": "Latvia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Latvia.png"
     },
     {
-      "name": "Lebanon-cartoon",
+      "name": "Lebanon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Lebanon.png"
     },
     {
-      "name": "Lesotho-cartoon",
+      "name": "Lesotho",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Lesotho.png"
     },
     {
-      "name": "Liberia-cartoon",
+      "name": "Liberia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Liberia.png"
     },
     {
-      "name": "Libya-cartoon",
+      "name": "Libya",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Libya.png"
     },
     {
-      "name": "Liechtenstein-cartoon",
+      "name": "Liechtenstein",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Liechtenstein.png"
     },
     {
-      "name": "Lithuania-cartoon",
+      "name": "Lithuania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Lithuania.png"
     },
     {
-      "name": "Luxembourg-cartoon",
+      "name": "Luxembourg",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Luxembourg.png"
     },
     {
-      "name": "Macau-cartoon",
+      "name": "Macau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Macau.png"
     },
     {
-      "name": "Madagascar-cartoon",
+      "name": "Madagascar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Madagascar.png"
     },
     {
-      "name": "Malawi-cartoon",
+      "name": "Malawi",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Malawi.png"
     },
     {
-      "name": "Malaysia-cartoon",
+      "name": "Malaysia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Malaysia.png"
     },
     {
-      "name": "Maldives-cartoon",
+      "name": "Maldives",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Maldives.png"
     },
     {
-      "name": "Mali-cartoon",
+      "name": "Mali",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mali.png"
     },
     {
-      "name": "Malta-cartoon",
+      "name": "Malta",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Malta.png"
     },
     {
-      "name": "Marshall Islands-cartoon",
+      "name": "Marshall Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Marshall%20Islands.png"
     },
     {
-      "name": "Martinique-cartoon",
+      "name": "Martinique",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Martinique.png"
     },
     {
-      "name": "Mauritania-cartoon",
+      "name": "Mauritania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mauritania.png"
     },
     {
-      "name": "Mauritius-cartoon",
+      "name": "Mauritius",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mauritius.png"
     },
     {
-      "name": "Mayotte-cartoon",
+      "name": "Mayotte",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mayotte.png"
     },
     {
-      "name": "Mexico-cartoon",
+      "name": "Mexico",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mexico.png"
     },
     {
-      "name": "Micronesia-cartoon",
+      "name": "Micronesia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Micronesia.png"
     },
     {
-      "name": "Moldova-cartoon",
+      "name": "Moldova",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Moldova.png"
     },
     {
-      "name": "Monaco-cartoon",
+      "name": "Monaco",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Monaco.png"
     },
     {
-      "name": "Mongolia-cartoon",
+      "name": "Mongolia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mongolia.png"
     },
     {
-      "name": "Montenegro-cartoon",
+      "name": "Montenegro",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Montenegro.png"
     },
     {
-      "name": "Montserrat-cartoon",
+      "name": "Montserrat",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Montserrat.png"
     },
     {
-      "name": "Morocco-cartoon",
+      "name": "Morocco",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Morocco.png"
     },
     {
-      "name": "Mozambique-cartoon",
+      "name": "Mozambique",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Mozambique.png"
     },
     {
-      "name": "Myanmar-cartoon",
+      "name": "Myanmar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Myanmar.png"
     },
     {
-      "name": "Namibia-cartoon",
+      "name": "Namibia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Namibia.png"
     },
     {
-      "name": "Nauru-cartoon",
+      "name": "Nauru",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nauru.png"
     },
     {
-      "name": "Nepal-cartoon",
+      "name": "Nepal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nepal.png"
     },
     {
-      "name": "Netherlands-cartoon",
+      "name": "Netherlands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Netherlands.png"
     },
     {
-      "name": "New Caledonia-cartoon",
+      "name": "New Caledonia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/New%20Caledonia.png"
     },
     {
-      "name": "New Zealand-cartoon",
+      "name": "New Zealand",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/New%20Zealand.png"
     },
     {
-      "name": "Nicaragua-cartoon",
+      "name": "Nicaragua",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nicaragua.png"
     },
     {
-      "name": "Niger-cartoon",
+      "name": "Niger",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Niger.png"
     },
     {
-      "name": "Nigeria-cartoon",
+      "name": "Nigeria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Nigeria.png"
     },
     {
-      "name": "Niue-cartoon",
+      "name": "Niue",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Niue.png"
     },
     {
-      "name": "Norfolk Island-cartoon",
+      "name": "Norfolk Island",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Norfolk%20Island.png"
     },
     {
-      "name": "North Korea-cartoon",
+      "name": "North Korea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/North%20Korea.png"
     },
     {
-      "name": "North Macedonia-cartoon",
+      "name": "North Macedonia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/North%20Macedonia.png"
     },
     {
-      "name": "Northern Ireland-cartoon",
+      "name": "Northern Ireland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Northern%20Ireland.png"
     },
     {
-      "name": "Northern Mariana Islands-cartoon",
+      "name": "Northern Mariana Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Northern%20Mariana%20Islands.png"
     },
     {
-      "name": "Norway-cartoon",
+      "name": "Norway",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Norway.png"
     },
     {
-      "name": "Oman-cartoon",
+      "name": "Oman",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Oman.png"
     },
     {
-      "name": "Pakistan-cartoon",
+      "name": "Pakistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Pakistan.png"
     },
     {
-      "name": "Palau-cartoon",
+      "name": "Palau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Palau.png"
     },
     {
-      "name": "Palestine-cartoon",
+      "name": "Palestine",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Palestine.png"
     },
     {
-      "name": "Panama-cartoon",
+      "name": "Panama",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Panama.png"
     },
     {
-      "name": "Papua New Guinea-cartoon",
+      "name": "Papua New Guinea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Papua%20New%20Guinea.png"
     },
     {
-      "name": "Paraguay-cartoon",
+      "name": "Paraguay",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Paraguay.png"
     },
     {
-      "name": "Peru-cartoon",
+      "name": "Peru",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Peru.png"
     },
     {
-      "name": "Philippines-cartoon",
+      "name": "Philippines",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Philippines.png"
     },
     {
-      "name": "Pitcairn Islands-cartoon",
+      "name": "Pitcairn Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Pitcairn%20Islands.png"
     },
     {
-      "name": "Poland-cartoon",
+      "name": "Poland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Poland.png"
     },
     {
-      "name": "Portugal-cartoon",
+      "name": "Portugal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Portugal.png"
     },
     {
-      "name": "Puerto Rico-cartoon",
+      "name": "Puerto Rico",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Puerto%20Rico.png"
     },
     {
-      "name": "Qatar-cartoon",
+      "name": "Qatar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Qatar.png"
     },
     {
-      "name": "Republic of the Congo-cartoon",
+      "name": "Republic of the Congo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Republic%20of%20the%20Congo.png"
     },
     {
-      "name": "Reunion-cartoon",
+      "name": "Reunion",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Reunion.png"
     },
     {
-      "name": "Romania-cartoon",
+      "name": "Romania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Romania.png"
     },
     {
-      "name": "Russia-cartoon",
+      "name": "Russia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Russia.png"
     },
     {
-      "name": "Rwanda-cartoon",
+      "name": "Rwanda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Rwanda.png"
     },
     {
-      "name": "Saint Barthelemy-cartoon",
+      "name": "Saint Barthelemy",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Barthelemy.png"
     },
     {
-      "name": "Saint Helena Ascension and Tristan da Cunha-cartoon",
+      "name": "Saint Helena Ascension and Tristan da Cunha",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Helena%20Ascension%20and%20Tristan%20da%20Cunha.png"
     },
     {
-      "name": "Saint Kitts and Nevis-cartoon",
+      "name": "Saint Kitts and Nevis",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Kitts%20and%20Nevis.png"
     },
     {
-      "name": "Saint Lucia-cartoon",
+      "name": "Saint Lucia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Lucia.png"
     },
     {
-      "name": "Saint Martin-cartoon",
+      "name": "Saint Martin",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Martin.png"
     },
     {
-      "name": "Saint Pierre and Miquelon-cartoon",
+      "name": "Saint Pierre and Miquelon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Pierre%20and%20Miquelon.png"
     },
     {
-      "name": "Saint Vincent and the Grenadines-cartoon",
+      "name": "Saint Vincent and the Grenadines",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saint%20Vincent%20and%20the%20Grenadines.png"
     },
     {
-      "name": "Samoa-cartoon",
+      "name": "Samoa",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Samoa.png"
     },
     {
-      "name": "San Marino-cartoon",
+      "name": "San Marino",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/San%20Marino.png"
     },
     {
-      "name": "Sao Tome and Principe-cartoon",
+      "name": "Sao Tome and Principe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sao%20Tome%20and%20Principe.png"
     },
     {
-      "name": "Saudi Arabia-cartoon",
+      "name": "Saudi Arabia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Saudi%20Arabia.png"
     },
     {
-      "name": "Scotland-cartoon",
+      "name": "Scotland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Scotland.png"
     },
     {
-      "name": "Senegal-cartoon",
+      "name": "Senegal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Senegal.png"
     },
     {
-      "name": "Serbia-cartoon",
+      "name": "Serbia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Serbia.png"
     },
     {
-      "name": "Seychelles-cartoon",
+      "name": "Seychelles",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Seychelles.png"
     },
     {
-      "name": "Sierra Leone-cartoon",
+      "name": "Sierra Leone",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sierra%20Leone.png"
     },
     {
-      "name": "Singapore-cartoon",
+      "name": "Singapore",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Singapore.png"
     },
     {
-      "name": "Sint Maarten-cartoon",
+      "name": "Sint Maarten",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sint%20Maarten.png"
     },
     {
-      "name": "Slovakia-cartoon",
+      "name": "Slovakia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Slovakia.png"
     },
     {
-      "name": "Slovenia-cartoon",
+      "name": "Slovenia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Slovenia.png"
     },
     {
-      "name": "Solomon Islands-cartoon",
+      "name": "Solomon Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Solomon%20Islands.png"
     },
     {
-      "name": "Somalia-cartoon",
+      "name": "Somalia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Somalia.png"
     },
     {
-      "name": "South Africa-cartoon",
+      "name": "South Africa",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Africa.png"
     },
     {
-      "name": "South Georgia-cartoon",
+      "name": "South Georgia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Georgia.png"
     },
     {
-      "name": "South Korea-cartoon",
+      "name": "South Korea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Korea.png"
     },
     {
-      "name": "South Sudan-cartoon",
+      "name": "South Sudan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/South%20Sudan.png"
     },
     {
-      "name": "Spain-cartoon",
+      "name": "Spain",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Spain.png"
     },
     {
-      "name": "Sri Lanka-cartoon",
+      "name": "Sri Lanka",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sri%20Lanka.png"
     },
     {
-      "name": "Sudan-cartoon",
+      "name": "Sudan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sudan.png"
     },
     {
-      "name": "Suriname-cartoon",
+      "name": "Suriname",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Suriname.png"
     },
     {
-      "name": "Svalbard and Jan Mayen-cartoon",
+      "name": "Svalbard and Jan Mayen",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Svalbard%20and%20Jan%20Mayen.png"
     },
     {
-      "name": "Sweden-cartoon",
+      "name": "Sweden",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Sweden.png"
     },
     {
-      "name": "Switzerland-cartoon",
+      "name": "Switzerland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Switzerland.png"
     },
     {
-      "name": "Syria-cartoon",
+      "name": "Syria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Syria.png"
     },
     {
-      "name": "Taiwan-cartoon",
+      "name": "Taiwan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Taiwan.png"
     },
     {
-      "name": "Tajikistan-cartoon",
+      "name": "Tajikistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tajikistan.png"
     },
     {
-      "name": "Tanzania-cartoon",
+      "name": "Tanzania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tanzania.png"
     },
     {
-      "name": "Thailand-cartoon",
+      "name": "Thailand",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Thailand.png"
     },
     {
-      "name": "Timor-Leste-cartoon",
+      "name": "Timor-Leste",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Timor-Leste.png"
     },
     {
-      "name": "Togo-cartoon",
+      "name": "Togo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Togo.png"
     },
     {
-      "name": "Tokelau-cartoon",
+      "name": "Tokelau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tokelau.png"
     },
     {
-      "name": "Tonga-cartoon",
+      "name": "Tonga",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tonga.png"
     },
     {
-      "name": "Trinidad and Tobago-cartoon",
+      "name": "Trinidad and Tobago",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Trinidad%20and%20Tobago.png"
     },
     {
-      "name": "Tunisia-cartoon",
+      "name": "Tunisia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tunisia.png"
     },
     {
-      "name": "Turkey-cartoon",
+      "name": "Turkey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Turkey.png"
     },
     {
-      "name": "Turkmenistan-cartoon",
+      "name": "Turkmenistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Turkmenistan.png"
     },
     {
-      "name": "Turks and Caicos Islands-cartoon",
+      "name": "Turks and Caicos Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Turks%20and%20Caicos%20Islands.png"
     },
     {
-      "name": "Tuvalu-cartoon",
+      "name": "Tuvalu",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Tuvalu.png"
     },
     {
-      "name": "Uganda-cartoon",
+      "name": "Uganda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Uganda.png"
     },
     {
-      "name": "Ukraine-cartoon",
+      "name": "Ukraine",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Ukraine.png"
     },
     {
-      "name": "United Arab Emirates-cartoon",
+      "name": "United Arab Emirates",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20Arab%20Emirates.png"
     },
     {
-      "name": "United Kingdom-cartoon",
+      "name": "United Kingdom",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20Kingdom.png"
     },
     {
-      "name": "United Nations-cartoon",
+      "name": "United Nations",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20Nations.png"
     },
     {
-      "name": "United States Virgin Islands-cartoon",
+      "name": "United States Virgin Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20States%20Virgin%20Islands.png"
     },
     {
-      "name": "United States-cartoon",
+      "name": "United States",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/United%20States.png"
     },
     {
-      "name": "Uruguay-cartoon",
+      "name": "Uruguay",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Uruguay.png"
     },
     {
-      "name": "Uzbekistan-cartoon",
+      "name": "Uzbekistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Uzbekistan.png"
     },
     {
-      "name": "Vanuatu-cartoon",
+      "name": "Vanuatu",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Vanuatu.png"
     },
     {
-      "name": "Vatican City Holy See-cartoon",
+      "name": "Vatican City Holy See",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Vatican%20City%20Holy%20See.png"
     },
     {
-      "name": "Venezuela-cartoon",
+      "name": "Venezuela",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Venezuela.png"
     },
     {
-      "name": "Vietnam-cartoon",
+      "name": "Vietnam",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Vietnam.png"
     },
     {
-      "name": "Wales-cartoon",
+      "name": "Wales",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Wales.png"
     },
     {
-      "name": "Wallis and Futuna-cartoon",
+      "name": "Wallis and Futuna",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Wallis%20and%20Futuna.png"
     },
     {
-      "name": "Western Sahara-cartoon",
+      "name": "Western Sahara",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Western%20Sahara.png"
     },
     {
-      "name": "Yemen-cartoon",
+      "name": "Yemen",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Yemen.png"
     },
     {
-      "name": "Zambia-cartoon",
+      "name": "Zambia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Zambia.png"
     },
     {
-      "name": "Zimbabwe-cartoon",
+      "name": "Zimbabwe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-cartoon/Zimbabwe.png"
     },
     {
-      "name": "AD-code",
+      "name": "AD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AD.png"
     },
     {
-      "name": "AE-code",
+      "name": "AE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AE.png"
     },
     {
-      "name": "AF-code",
+      "name": "AF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AF.png"
     },
     {
-      "name": "AG-code",
+      "name": "AG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AG.png"
     },
     {
-      "name": "AI-code",
+      "name": "AI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AI.png"
     },
     {
-      "name": "AL-code",
+      "name": "AL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AL.png"
     },
     {
-      "name": "AM-code",
+      "name": "AM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AM.png"
     },
     {
-      "name": "AO-code",
+      "name": "AO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AO.png"
     },
     {
-      "name": "AQ-code",
+      "name": "AQ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AQ.png"
     },
     {
-      "name": "AR-code",
+      "name": "AR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AR.png"
     },
     {
-      "name": "AS-code",
+      "name": "AS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AS.png"
     },
     {
-      "name": "AT-code",
+      "name": "AT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AT.png"
     },
     {
-      "name": "AU-code",
+      "name": "AU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AU.png"
     },
     {
-      "name": "AW-code",
+      "name": "AW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AW.png"
     },
     {
-      "name": "AX-code",
+      "name": "AX",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AX.png"
     },
     {
-      "name": "AZ-code",
+      "name": "AZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/AZ.png"
     },
     {
-      "name": "BA-code",
+      "name": "BA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BA.png"
     },
     {
-      "name": "BB-code",
+      "name": "BB",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BB.png"
     },
     {
-      "name": "BD-code",
+      "name": "BD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BD.png"
     },
     {
-      "name": "BE-code",
+      "name": "BE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BE.png"
     },
     {
-      "name": "BF-code",
+      "name": "BF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BF.png"
     },
     {
-      "name": "BG-code",
+      "name": "BG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BG.png"
     },
     {
-      "name": "BH-code",
+      "name": "BH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BH.png"
     },
     {
-      "name": "BI-code",
+      "name": "BI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BI.png"
     },
     {
-      "name": "BJ-code",
+      "name": "BJ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BJ.png"
     },
     {
-      "name": "BL-code",
+      "name": "BL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BL.png"
     },
     {
-      "name": "BM-code",
+      "name": "BM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BM.png"
     },
     {
-      "name": "BN-code",
+      "name": "BN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BN.png"
     },
     {
-      "name": "BO-code",
+      "name": "BO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BO.png"
     },
     {
-      "name": "BQ-code",
+      "name": "BQ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BQ.png"
     },
     {
-      "name": "BR-code",
+      "name": "BR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BR.png"
     },
     {
-      "name": "BS-code",
+      "name": "BS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BS.png"
     },
     {
-      "name": "BT-code",
+      "name": "BT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BT.png"
     },
     {
-      "name": "BV-code",
+      "name": "BV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BV.png"
     },
     {
-      "name": "BW-code",
+      "name": "BW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BW.png"
     },
     {
-      "name": "BY-code",
+      "name": "BY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BY.png"
     },
     {
-      "name": "BZ-code",
+      "name": "BZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/BZ.png"
     },
     {
-      "name": "CA-code",
+      "name": "CA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CA.png"
     },
     {
-      "name": "CC-code",
+      "name": "CC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CC.png"
     },
     {
-      "name": "CD-code",
+      "name": "CD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CD.png"
     },
     {
-      "name": "CF-code",
+      "name": "CF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CF.png"
     },
     {
-      "name": "CG-code",
+      "name": "CG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CG.png"
     },
     {
-      "name": "CH-code",
+      "name": "CH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CH.png"
     },
     {
-      "name": "CI-code",
+      "name": "CI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CI.png"
     },
     {
-      "name": "CK-code",
+      "name": "CK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CK.png"
     },
     {
-      "name": "CL-code",
+      "name": "CL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CL.png"
     },
     {
-      "name": "CM-code",
+      "name": "CM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CM.png"
     },
     {
-      "name": "CN-code",
+      "name": "CN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CN.png"
     },
     {
-      "name": "CO-code",
+      "name": "CO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CO.png"
     },
     {
-      "name": "CR-code",
+      "name": "CR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CR.png"
     },
     {
-      "name": "CU-code",
+      "name": "CU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CU.png"
     },
     {
-      "name": "CV-code",
+      "name": "CV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CV.png"
     },
     {
-      "name": "CW-code",
+      "name": "CW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CW.png"
     },
     {
-      "name": "CX-code",
+      "name": "CX",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CX.png"
     },
     {
-      "name": "CY-code",
+      "name": "CY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CY.png"
     },
     {
-      "name": "CZ-code",
+      "name": "CZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/CZ.png"
     },
     {
-      "name": "DE-code",
+      "name": "DE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/DE.png"
     },
     {
-      "name": "DJ-code",
+      "name": "DJ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/DJ.png"
     },
     {
-      "name": "DK-code",
+      "name": "DK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/DK.png"
     },
     {
-      "name": "DM-code",
+      "name": "DM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/DM.png"
     },
     {
-      "name": "DO-code",
+      "name": "DO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/DO.png"
     },
     {
-      "name": "DZ-code",
+      "name": "DZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/DZ.png"
     },
     {
-      "name": "EC-code",
+      "name": "EC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/EC.png"
     },
     {
-      "name": "EE-code",
+      "name": "EE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/EE.png"
     },
     {
-      "name": "EG-code",
+      "name": "EG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/EG.png"
     },
     {
-      "name": "EH-code",
+      "name": "EH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/EH.png"
     },
     {
-      "name": "ENG-code",
+      "name": "ENG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ENG.png"
     },
     {
-      "name": "ER-code",
+      "name": "ER",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ER.png"
     },
     {
-      "name": "ES-code",
+      "name": "ES",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ES.png"
     },
     {
-      "name": "ET-code",
+      "name": "ET",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ET.png"
     },
     {
-      "name": "EU-code",
+      "name": "EU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/EU.png"
     },
     {
-      "name": "FI-code",
+      "name": "FI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/FI.png"
     },
     {
-      "name": "FJ-code",
+      "name": "FJ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/FJ.png"
     },
     {
-      "name": "FK-code",
+      "name": "FK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/FK.png"
     },
     {
-      "name": "FM-code",
+      "name": "FM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/FM.png"
     },
     {
-      "name": "FO-code",
+      "name": "FO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/FO.png"
     },
     {
-      "name": "FR-code",
+      "name": "FR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/FR.png"
     },
     {
-      "name": "GA-code",
+      "name": "GA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GA.png"
     },
     {
-      "name": "GB-code",
+      "name": "GB",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GB.png"
     },
     {
-      "name": "GD-code",
+      "name": "GD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GD.png"
     },
     {
-      "name": "GE-code",
+      "name": "GE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GE.png"
     },
     {
-      "name": "GF-code",
+      "name": "GF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GF.png"
     },
     {
-      "name": "GG-code",
+      "name": "GG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GG.png"
     },
     {
-      "name": "GH-code",
+      "name": "GH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GH.png"
     },
     {
-      "name": "GI-code",
+      "name": "GI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GI.png"
     },
     {
-      "name": "GL-code",
+      "name": "GL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GL.png"
     },
     {
-      "name": "GM-code",
+      "name": "GM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GM.png"
     },
     {
-      "name": "GN-code",
+      "name": "GN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GN.png"
     },
     {
-      "name": "GP-code",
+      "name": "GP",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GP.png"
     },
     {
-      "name": "GQ-code",
+      "name": "GQ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GQ.png"
     },
     {
-      "name": "GR-code",
+      "name": "GR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GR.png"
     },
     {
-      "name": "GS-code",
+      "name": "GS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GS.png"
     },
     {
-      "name": "GT-code",
+      "name": "GT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GT.png"
     },
     {
-      "name": "GU-code",
+      "name": "GU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GU.png"
     },
     {
-      "name": "GW-code",
+      "name": "GW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GW.png"
     },
     {
-      "name": "GY-code",
+      "name": "GY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/GY.png"
     },
     {
-      "name": "HK-code",
+      "name": "HK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/HK.png"
     },
     {
-      "name": "HM-code",
+      "name": "HM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/HM.png"
     },
     {
-      "name": "HN-code",
+      "name": "HN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/HN.png"
     },
     {
-      "name": "HR-code",
+      "name": "HR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/HR.png"
     },
     {
-      "name": "HT-code",
+      "name": "HT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/HT.png"
     },
     {
-      "name": "HU-code",
+      "name": "HU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/HU.png"
     },
     {
-      "name": "ID-code",
+      "name": "ID",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ID.png"
     },
     {
-      "name": "IE-code",
+      "name": "IE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IE.png"
     },
     {
-      "name": "IL-code",
+      "name": "IL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IL.png"
     },
     {
-      "name": "IM-code",
+      "name": "IM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IM.png"
     },
     {
-      "name": "IN-code",
+      "name": "IN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IN.png"
     },
     {
-      "name": "IO-code",
+      "name": "IO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IO.png"
     },
     {
-      "name": "IQ-code",
+      "name": "IQ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IQ.png"
     },
     {
-      "name": "IR-code",
+      "name": "IR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IR.png"
     },
     {
-      "name": "IS-code",
+      "name": "IS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IS.png"
     },
     {
-      "name": "IT-code",
+      "name": "IT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/IT.png"
     },
     {
-      "name": "JE-code",
+      "name": "JE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/JE.png"
     },
     {
-      "name": "JM-code",
+      "name": "JM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/JM.png"
     },
     {
-      "name": "JO-code",
+      "name": "JO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/JO.png"
     },
     {
-      "name": "JP-code",
+      "name": "JP",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/JP.png"
     },
     {
-      "name": "KE-code",
+      "name": "KE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KE.png"
     },
     {
-      "name": "KG-code",
+      "name": "KG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KG.png"
     },
     {
-      "name": "KH-code",
+      "name": "KH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KH.png"
     },
     {
-      "name": "KI-code",
+      "name": "KI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KI.png"
     },
     {
-      "name": "KM-code",
+      "name": "KM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KM.png"
     },
     {
-      "name": "KN-code",
+      "name": "KN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KN.png"
     },
     {
-      "name": "KP-code",
+      "name": "KP",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KP.png"
     },
     {
-      "name": "KR-code",
+      "name": "KR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KR.png"
     },
     {
-      "name": "KW-code",
+      "name": "KW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KW.png"
     },
     {
-      "name": "KY-code",
+      "name": "KY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KY.png"
     },
     {
-      "name": "KZ-code",
+      "name": "KZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/KZ.png"
     },
     {
-      "name": "LA-code",
+      "name": "LA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LA.png"
     },
     {
-      "name": "LB-code",
+      "name": "LB",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LB.png"
     },
     {
-      "name": "LC-code",
+      "name": "LC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LC.png"
     },
     {
-      "name": "LI-code",
+      "name": "LI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LI.png"
     },
     {
-      "name": "LK-code",
+      "name": "LK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LK.png"
     },
     {
-      "name": "LR-code",
+      "name": "LR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LR.png"
     },
     {
-      "name": "LS-code",
+      "name": "LS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LS.png"
     },
     {
-      "name": "LT-code",
+      "name": "LT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LT.png"
     },
     {
-      "name": "LU-code",
+      "name": "LU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LU.png"
     },
     {
-      "name": "LV-code",
+      "name": "LV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LV.png"
     },
     {
-      "name": "LY-code",
+      "name": "LY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/LY.png"
     },
     {
-      "name": "MA-code",
+      "name": "MA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MA.png"
     },
     {
-      "name": "MC-code",
+      "name": "MC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MC.png"
     },
     {
-      "name": "MD-code",
+      "name": "MD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MD.png"
     },
     {
-      "name": "ME-code",
+      "name": "ME",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ME.png"
     },
     {
-      "name": "MF-code",
+      "name": "MF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MF.png"
     },
     {
-      "name": "MG-code",
+      "name": "MG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MG.png"
     },
     {
-      "name": "MH-code",
+      "name": "MH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MH.png"
     },
     {
-      "name": "MK-code",
+      "name": "MK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MK.png"
     },
     {
-      "name": "ML-code",
+      "name": "ML",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ML.png"
     },
     {
-      "name": "MM-code",
+      "name": "MM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MM.png"
     },
     {
-      "name": "MN-code",
+      "name": "MN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MN.png"
     },
     {
-      "name": "MO-code",
+      "name": "MO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MO.png"
     },
     {
-      "name": "MP-code",
+      "name": "MP",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MP.png"
     },
     {
-      "name": "MQ-code",
+      "name": "MQ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MQ.png"
     },
     {
-      "name": "MR-code",
+      "name": "MR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MR.png"
     },
     {
-      "name": "MS-code",
+      "name": "MS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MS.png"
     },
     {
-      "name": "MT-code",
+      "name": "MT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MT.png"
     },
     {
-      "name": "MU-code",
+      "name": "MU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MU.png"
     },
     {
-      "name": "MV-code",
+      "name": "MV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MV.png"
     },
     {
-      "name": "MW-code",
+      "name": "MW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MW.png"
     },
     {
-      "name": "MX-code",
+      "name": "MX",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MX.png"
     },
     {
-      "name": "MY-code",
+      "name": "MY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MY.png"
     },
     {
-      "name": "MZ-code",
+      "name": "MZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/MZ.png"
     },
     {
-      "name": "NA-code",
+      "name": "NA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NA.png"
     },
     {
-      "name": "NC-code",
+      "name": "NC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NC.png"
     },
     {
-      "name": "NE-code",
+      "name": "NE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NE.png"
     },
     {
-      "name": "NF-code",
+      "name": "NF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NF.png"
     },
     {
-      "name": "NG-code",
+      "name": "NG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NG.png"
     },
     {
-      "name": "NI-code",
+      "name": "NI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NI.png"
     },
     {
-      "name": "NIR-code",
+      "name": "NIR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NIR.png"
     },
     {
-      "name": "NL-code",
+      "name": "NL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NL.png"
     },
     {
-      "name": "NO-code",
+      "name": "NO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NO.png"
     },
     {
-      "name": "NP-code",
+      "name": "NP",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NP.png"
     },
     {
-      "name": "NR-code",
+      "name": "NR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NR.png"
     },
     {
-      "name": "NU-code",
+      "name": "NU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NU.png"
     },
     {
-      "name": "NZ-code",
+      "name": "NZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/NZ.png"
     },
     {
-      "name": "OM-code",
+      "name": "OM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/OM.png"
     },
     {
-      "name": "PA-code",
+      "name": "PA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PA.png"
     },
     {
-      "name": "PE-code",
+      "name": "PE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PE.png"
     },
     {
-      "name": "PF-code",
+      "name": "PF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PF.png"
     },
     {
-      "name": "PG-code",
+      "name": "PG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PG.png"
     },
     {
-      "name": "PH-code",
+      "name": "PH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PH.png"
     },
     {
-      "name": "PK-code",
+      "name": "PK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PK.png"
     },
     {
-      "name": "PL-code",
+      "name": "PL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PL.png"
     },
     {
-      "name": "PM-code",
+      "name": "PM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PM.png"
     },
     {
-      "name": "PN-code",
+      "name": "PN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PN.png"
     },
     {
-      "name": "PR-code",
+      "name": "PR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PR.png"
     },
     {
-      "name": "PS-code",
+      "name": "PS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PS.png"
     },
     {
-      "name": "PT-code",
+      "name": "PT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PT.png"
     },
     {
-      "name": "PW-code",
+      "name": "PW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PW.png"
     },
     {
-      "name": "PY-code",
+      "name": "PY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/PY.png"
     },
     {
-      "name": "QA-code",
+      "name": "QA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/QA.png"
     },
     {
-      "name": "RE-code",
+      "name": "RE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/RE.png"
     },
     {
-      "name": "RO-code",
+      "name": "RO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/RO.png"
     },
     {
-      "name": "RS-code",
+      "name": "RS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/RS.png"
     },
     {
-      "name": "RU-code",
+      "name": "RU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/RU.png"
     },
     {
-      "name": "RW-code",
+      "name": "RW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/RW.png"
     },
     {
-      "name": "SA-code",
+      "name": "SA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SA.png"
     },
     {
-      "name": "SB-code",
+      "name": "SB",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SB.png"
     },
     {
-      "name": "SC-code",
+      "name": "SC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SC.png"
     },
     {
-      "name": "SCO-code",
+      "name": "SCO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SCO.png"
     },
     {
-      "name": "SD-code",
+      "name": "SD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SD.png"
     },
     {
-      "name": "SE-code",
+      "name": "SE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SE.png"
     },
     {
-      "name": "SG-code",
+      "name": "SG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SG.png"
     },
     {
-      "name": "SH-code",
+      "name": "SH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SH.png"
     },
     {
-      "name": "SI-code",
+      "name": "SI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SI.png"
     },
     {
-      "name": "SJ-code",
+      "name": "SJ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SJ.png"
     },
     {
-      "name": "SK-code",
+      "name": "SK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SK.png"
     },
     {
-      "name": "SL-code",
+      "name": "SL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SL.png"
     },
     {
-      "name": "SM-code",
+      "name": "SM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SM.png"
     },
     {
-      "name": "SN-code",
+      "name": "SN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SN.png"
     },
     {
-      "name": "SO-code",
+      "name": "SO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SO.png"
     },
     {
-      "name": "SR-code",
+      "name": "SR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SR.png"
     },
     {
-      "name": "SS-code",
+      "name": "SS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SS.png"
     },
     {
-      "name": "ST-code",
+      "name": "ST",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ST.png"
     },
     {
-      "name": "SV-code",
+      "name": "SV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SV.png"
     },
     {
-      "name": "SX-code",
+      "name": "SX",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SX.png"
     },
     {
-      "name": "SY-code",
+      "name": "SY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SY.png"
     },
     {
-      "name": "SZ-code",
+      "name": "SZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/SZ.png"
     },
     {
-      "name": "TC-code",
+      "name": "TC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TC.png"
     },
     {
-      "name": "TD-code",
+      "name": "TD",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TD.png"
     },
     {
-      "name": "TF-code",
+      "name": "TF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TF.png"
     },
     {
-      "name": "TG-code",
+      "name": "TG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TG.png"
     },
     {
-      "name": "TH-code",
+      "name": "TH",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TH.png"
     },
     {
-      "name": "TJ-code",
+      "name": "TJ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TJ.png"
     },
     {
-      "name": "TK-code",
+      "name": "TK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TK.png"
     },
     {
-      "name": "TL-code",
+      "name": "TL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TL.png"
     },
     {
-      "name": "TM-code",
+      "name": "TM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TM.png"
     },
     {
-      "name": "TN-code",
+      "name": "TN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TN.png"
     },
     {
-      "name": "TO-code",
+      "name": "TO",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TO.png"
     },
     {
-      "name": "TR-code",
+      "name": "TR",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TR.png"
     },
     {
-      "name": "TT-code",
+      "name": "TT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TT.png"
     },
     {
-      "name": "TV-code",
+      "name": "TV",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TV.png"
     },
     {
-      "name": "TW-code",
+      "name": "TW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TW.png"
     },
     {
-      "name": "TZ-code",
+      "name": "TZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/TZ.png"
     },
     {
-      "name": "UA-code",
+      "name": "UA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/UA.png"
     },
     {
-      "name": "UG-code",
+      "name": "UG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/UG.png"
     },
     {
-      "name": "UM-code",
+      "name": "UM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/UM.png"
     },
     {
-      "name": "UN-code",
+      "name": "UN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/UN.png"
     },
     {
-      "name": "US-code",
+      "name": "US",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/US.png"
     },
     {
-      "name": "UY-code",
+      "name": "UY",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/UY.png"
     },
     {
-      "name": "UZ-code",
+      "name": "UZ",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/UZ.png"
     },
     {
-      "name": "VA-code",
+      "name": "VA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VA.png"
     },
     {
-      "name": "VC-code",
+      "name": "VC",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VC.png"
     },
     {
-      "name": "VE-code",
+      "name": "VE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VE.png"
     },
     {
-      "name": "VG-code",
+      "name": "VG",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VG.png"
     },
     {
-      "name": "VI-code",
+      "name": "VI",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VI.png"
     },
     {
-      "name": "VN-code",
+      "name": "VN",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VN.png"
     },
     {
-      "name": "VU-code",
+      "name": "VU",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/VU.png"
     },
     {
-      "name": "WAL-code",
+      "name": "WAL",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/WAL.png"
     },
     {
-      "name": "WF-code",
+      "name": "WF",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/WF.png"
     },
     {
-      "name": "WS-code",
+      "name": "WS",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/WS.png"
     },
     {
-      "name": "XK-code",
+      "name": "XK",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/XK.png"
     },
     {
-      "name": "YE-code",
+      "name": "YE",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/YE.png"
     },
     {
-      "name": "YT-code",
+      "name": "YT",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/YT.png"
     },
     {
-      "name": "ZA-code",
+      "name": "ZA",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ZA.png"
     },
     {
-      "name": "ZM-code",
+      "name": "ZM",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ZM.png"
     },
     {
-      "name": "ZW-code",
+      "name": "ZW",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-code/ZW.png"
     },
     {
-      "name": "Afghanistan-complete",
+      "name": "Afghanistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Afghanistan.png"
     },
     {
-      "name": "Aland Islands-complete",
+      "name": "Aland Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Aland%20Islands.png"
     },
     {
-      "name": "Albania-complete",
+      "name": "Albania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Albania.png"
     },
     {
-      "name": "Algeria-complete",
+      "name": "Algeria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Algeria.png"
     },
     {
-      "name": "American Samoa-complete",
+      "name": "American Samoa",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/American%20Samoa.png"
     },
     {
-      "name": "Andorra-complete",
+      "name": "Andorra",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Andorra.png"
     },
     {
-      "name": "Angola-complete",
+      "name": "Angola",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Angola.png"
     },
     {
-      "name": "Anguilla-complete",
+      "name": "Anguilla",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Anguilla.png"
     },
     {
-      "name": "Antarctica-complete",
+      "name": "Antarctica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Antarctica.png"
     },
     {
-      "name": "Antigua and Barbuda-complete",
+      "name": "Antigua and Barbuda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Antigua%20and%20Barbuda.png"
     },
     {
-      "name": "Argentina-complete",
+      "name": "Argentina",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Argentina.png"
     },
     {
-      "name": "Armenia-complete",
+      "name": "Armenia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Armenia.png"
     },
     {
-      "name": "Aruba-complete",
+      "name": "Aruba",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Aruba.png"
     },
     {
-      "name": "Australia-complete",
+      "name": "Australia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Australia.png"
     },
     {
-      "name": "Austria-complete",
+      "name": "Austria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Austria.png"
     },
     {
-      "name": "Azerbaijan-complete",
+      "name": "Azerbaijan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Azerbaijan.png"
     },
     {
-      "name": "Bahamas-complete",
+      "name": "Bahamas",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bahamas.png"
     },
     {
-      "name": "Bahrain-complete",
+      "name": "Bahrain",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bahrain.png"
     },
     {
-      "name": "Bangladesh-complete",
+      "name": "Bangladesh",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bangladesh.png"
     },
     {
-      "name": "Barbados-complete",
+      "name": "Barbados",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Barbados.png"
     },
     {
-      "name": "Belarus-complete",
+      "name": "Belarus",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Belarus.png"
     },
     {
-      "name": "Belgium-complete",
+      "name": "Belgium",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Belgium.png"
     },
     {
-      "name": "Belize-complete",
+      "name": "Belize",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Belize.png"
     },
     {
-      "name": "Benin-complete",
+      "name": "Benin",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Benin.png"
     },
     {
-      "name": "Bermuda-complete",
+      "name": "Bermuda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bermuda.png"
     },
     {
-      "name": "Bhutan-complete",
+      "name": "Bhutan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bhutan.png"
     },
     {
-      "name": "Bolivia-complete",
+      "name": "Bolivia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bolivia.png"
     },
     {
-      "name": "Bosnia and Herzegovina-complete",
+      "name": "Bosnia and Herzegovina",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bosnia%20and%20Herzegovina.png"
     },
     {
-      "name": "Botswana-complete",
+      "name": "Botswana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Botswana.png"
     },
     {
-      "name": "Bouvet Island-complete",
+      "name": "Bouvet Island",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bouvet%20Island.png"
     },
     {
-      "name": "Brazil-complete",
+      "name": "Brazil",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Brazil.png"
     },
     {
-      "name": "British Indian Ocean Territory-complete",
+      "name": "British Indian Ocean Territory",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/British%20Indian%20Ocean%20Territory.png"
     },
     {
-      "name": "British Virgin Islands-complete",
+      "name": "British Virgin Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/British%20Virgin%20Islands.png"
     },
     {
-      "name": "Brunei-complete",
+      "name": "Brunei",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Brunei.png"
     },
     {
-      "name": "Bulgaria-complete",
+      "name": "Bulgaria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Bulgaria.png"
     },
     {
-      "name": "Burkina Faso-complete",
+      "name": "Burkina Faso",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Burkina%20Faso.png"
     },
     {
-      "name": "Burundi-complete",
+      "name": "Burundi",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Burundi.png"
     },
     {
-      "name": "Cambodia-complete",
+      "name": "Cambodia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cambodia.png"
     },
     {
-      "name": "Cameroon-complete",
+      "name": "Cameroon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cameroon.png"
     },
     {
-      "name": "Canada-complete",
+      "name": "Canada",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Canada.png"
     },
     {
-      "name": "Cape Verde-complete",
+      "name": "Cape Verde",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cape%20Verde.png"
     },
     {
-      "name": "Caribbean Netherlands-complete",
+      "name": "Caribbean Netherlands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Caribbean%20Netherlands.png"
     },
     {
-      "name": "Cayman Islands-complete",
+      "name": "Cayman Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cayman%20Islands.png"
     },
     {
-      "name": "Central African Republic-complete",
+      "name": "Central African Republic",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Central%20African%20Republic.png"
     },
     {
-      "name": "Chad-complete",
+      "name": "Chad",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Chad.png"
     },
     {
-      "name": "Chile-complete",
+      "name": "Chile",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Chile.png"
     },
     {
-      "name": "China-complete",
+      "name": "China",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/China.png"
     },
     {
-      "name": "Christmas Island-complete",
+      "name": "Christmas Island",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Christmas%20Island.png"
     },
     {
-      "name": "Cocos Keeling Islands-complete",
+      "name": "Cocos Keeling Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cocos%20Keeling%20Islands.png"
     },
     {
-      "name": "Colombia-complete",
+      "name": "Colombia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Colombia.png"
     },
     {
-      "name": "Comoros-complete",
+      "name": "Comoros",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Comoros.png"
     },
     {
-      "name": "Cook Islands-complete",
+      "name": "Cook Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cook%20Islands.png"
     },
     {
-      "name": "Costa Rica-complete",
+      "name": "Costa Rica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Costa%20Rica.png"
     },
     {
-      "name": "Cote dIvoire Ivory Coast-complete",
+      "name": "Cote dIvoire Ivory Coast",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cote%20dIvoire%20Ivory%20Coast.png"
     },
     {
-      "name": "Croatia-complete",
+      "name": "Croatia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Croatia.png"
     },
     {
-      "name": "Cuba-complete",
+      "name": "Cuba",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cuba.png"
     },
     {
-      "name": "Curacao-complete",
+      "name": "Curacao",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Curacao.png"
     },
     {
-      "name": "Cyprus-complete",
+      "name": "Cyprus",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Cyprus.png"
     },
     {
-      "name": "Czechia-complete",
+      "name": "Czechia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Czechia.png"
     },
     {
-      "name": "DR Congo-complete",
+      "name": "DR Congo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/DR%20Congo.png"
     },
     {
-      "name": "Denmark-complete",
+      "name": "Denmark",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Denmark.png"
     },
     {
-      "name": "Djibouti-complete",
+      "name": "Djibouti",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Djibouti.png"
     },
     {
-      "name": "Dominica-complete",
+      "name": "Dominica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Dominica.png"
     },
     {
-      "name": "Dominican Republic-complete",
+      "name": "Dominican Republic",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Dominican%20Republic.png"
     },
     {
-      "name": "Ecuador-complete",
+      "name": "Ecuador",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Ecuador.png"
     },
     {
-      "name": "Egypt-complete",
+      "name": "Egypt",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Egypt.png"
     },
     {
-      "name": "El Salvador-complete",
+      "name": "El Salvador",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/El%20Salvador.png"
     },
     {
-      "name": "England-complete",
+      "name": "England",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/England.png"
     },
     {
-      "name": "Equatorial Guinea-complete",
+      "name": "Equatorial Guinea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Equatorial%20Guinea.png"
     },
     {
-      "name": "Eritrea-complete",
+      "name": "Eritrea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Eritrea.png"
     },
     {
-      "name": "Estonia-complete",
+      "name": "Estonia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Estonia.png"
     },
     {
-      "name": "Eswatini Swaziland-complete",
+      "name": "Eswatini Swaziland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Eswatini%20Swaziland.png"
     },
     {
-      "name": "Ethiopia-complete",
+      "name": "Ethiopia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Ethiopia.png"
     },
     {
-      "name": "European Union-complete",
+      "name": "European Union",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/European%20Union.png"
     },
     {
-      "name": "Falkland Islands-complete",
+      "name": "Falkland Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Falkland%20Islands.png"
     },
     {
-      "name": "Faroe Islands-complete",
+      "name": "Faroe Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Faroe%20Islands.png"
     },
     {
-      "name": "Fiji-complete",
+      "name": "Fiji",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Fiji.png"
     },
     {
-      "name": "Finland-complete",
+      "name": "Finland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Finland.png"
     },
     {
-      "name": "France-complete",
+      "name": "France",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/France.png"
     },
     {
-      "name": "French Guiana-complete",
+      "name": "French Guiana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/French%20Guiana.png"
     },
     {
-      "name": "French Polynesia-complete",
+      "name": "French Polynesia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/French%20Polynesia.png"
     },
     {
-      "name": "French Southern and Antarctic Lands-complete",
+      "name": "French Southern and Antarctic Lands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/French%20Southern%20and%20Antarctic%20Lands.png"
     },
     {
-      "name": "Gabon-complete",
+      "name": "Gabon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Gabon.png"
     },
     {
-      "name": "Gambia-complete",
+      "name": "Gambia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Gambia.png"
     },
     {
-      "name": "Georgia-complete",
+      "name": "Georgia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Georgia.png"
     },
     {
-      "name": "Germany-complete",
+      "name": "Germany",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Germany.png"
     },
     {
-      "name": "Ghana-complete",
+      "name": "Ghana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Ghana.png"
     },
     {
-      "name": "Gibraltar-complete",
+      "name": "Gibraltar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Gibraltar.png"
     },
     {
-      "name": "Greece-complete",
+      "name": "Greece",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Greece.png"
     },
     {
-      "name": "Greenland-complete",
+      "name": "Greenland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Greenland.png"
     },
     {
-      "name": "Grenada-complete",
+      "name": "Grenada",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Grenada.png"
     },
     {
-      "name": "Guadeloupe-complete",
+      "name": "Guadeloupe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guadeloupe.png"
     },
     {
-      "name": "Guam-complete",
+      "name": "Guam",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guam.png"
     },
     {
-      "name": "Guatemala-complete",
+      "name": "Guatemala",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guatemala.png"
     },
     {
-      "name": "Guernsey-complete",
+      "name": "Guernsey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guernsey.png"
     },
     {
-      "name": "Guinea-Bissau-complete",
+      "name": "Guinea-Bissau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guinea-Bissau.png"
     },
     {
-      "name": "Guinea-complete",
+      "name": "Guinea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guinea.png"
     },
     {
-      "name": "Guyana-complete",
+      "name": "Guyana",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Guyana.png"
     },
     {
-      "name": "Haiti-complete",
+      "name": "Haiti",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Haiti.png"
     },
     {
-      "name": "Heard Island and McDonald Islands-complete",
+      "name": "Heard Island and McDonald Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Heard%20Island%20and%20McDonald%20Islands.png"
     },
     {
-      "name": "Honduras-complete",
+      "name": "Honduras",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Honduras.png"
     },
     {
-      "name": "Hong Kong-complete",
+      "name": "Hong Kong",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Hong%20Kong.png"
     },
     {
-      "name": "Hungary-complete",
+      "name": "Hungary",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Hungary.png"
     },
     {
-      "name": "Iceland-complete",
+      "name": "Iceland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Iceland.png"
     },
     {
-      "name": "India-complete",
+      "name": "India",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/India.png"
     },
     {
-      "name": "Indonesia-complete",
+      "name": "Indonesia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Indonesia.png"
     },
     {
-      "name": "Iran-complete",
+      "name": "Iran",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Iran.png"
     },
     {
-      "name": "Iraq-complete",
+      "name": "Iraq",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Iraq.png"
     },
     {
-      "name": "Ireland-complete",
+      "name": "Ireland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Ireland.png"
     },
     {
-      "name": "Isle of Man-complete",
+      "name": "Isle of Man",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Isle%20of%20Man.png"
     },
     {
-      "name": "Israel-complete",
+      "name": "Israel",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Israel.png"
     },
     {
-      "name": "Italy-complete",
+      "name": "Italy",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Italy.png"
     },
     {
-      "name": "Jamaica-complete",
+      "name": "Jamaica",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Jamaica.png"
     },
     {
-      "name": "Japan-complete",
+      "name": "Japan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Japan.png"
     },
     {
-      "name": "Jersey-complete",
+      "name": "Jersey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Jersey.png"
     },
     {
-      "name": "Jordan-complete",
+      "name": "Jordan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Jordan.png"
     },
     {
-      "name": "Kazakhstan-complete",
+      "name": "Kazakhstan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Kazakhstan.png"
     },
     {
-      "name": "Kenya-complete",
+      "name": "Kenya",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Kenya.png"
     },
     {
-      "name": "Kiribati-complete",
+      "name": "Kiribati",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Kiribati.png"
     },
     {
-      "name": "Kosovo-complete",
+      "name": "Kosovo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Kosovo.png"
     },
     {
-      "name": "Kuwait-complete",
+      "name": "Kuwait",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Kuwait.png"
     },
     {
-      "name": "Kyrgyzstan-complete",
+      "name": "Kyrgyzstan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Kyrgyzstan.png"
     },
     {
-      "name": "Laos-complete",
+      "name": "Laos",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Laos.png"
     },
     {
-      "name": "Latvia-complete",
+      "name": "Latvia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Latvia.png"
     },
     {
-      "name": "Lebanon-complete",
+      "name": "Lebanon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Lebanon.png"
     },
     {
-      "name": "Lesotho-complete",
+      "name": "Lesotho",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Lesotho.png"
     },
     {
-      "name": "Liberia-complete",
+      "name": "Liberia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Liberia.png"
     },
     {
-      "name": "Libya-complete",
+      "name": "Libya",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Libya.png"
     },
     {
-      "name": "Liechtenstein-complete",
+      "name": "Liechtenstein",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Liechtenstein.png"
     },
     {
-      "name": "Lithuania-complete",
+      "name": "Lithuania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Lithuania.png"
     },
     {
-      "name": "Luxembourg-complete",
+      "name": "Luxembourg",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Luxembourg.png"
     },
     {
-      "name": "Macau-complete",
+      "name": "Macau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Macau.png"
     },
     {
-      "name": "Madagascar-complete",
+      "name": "Madagascar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Madagascar.png"
     },
     {
-      "name": "Malawi-complete",
+      "name": "Malawi",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Malawi.png"
     },
     {
-      "name": "Malaysia-complete",
+      "name": "Malaysia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Malaysia.png"
     },
     {
-      "name": "Maldives-complete",
+      "name": "Maldives",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Maldives.png"
     },
     {
-      "name": "Mali-complete",
+      "name": "Mali",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mali.png"
     },
     {
-      "name": "Malta-complete",
+      "name": "Malta",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Malta.png"
     },
     {
-      "name": "Marshall Islands-complete",
+      "name": "Marshall Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Marshall%20Islands.png"
     },
     {
-      "name": "Martinique-complete",
+      "name": "Martinique",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Martinique.png"
     },
     {
-      "name": "Mauritania-complete",
+      "name": "Mauritania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mauritania.png"
     },
     {
-      "name": "Mauritius-complete",
+      "name": "Mauritius",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mauritius.png"
     },
     {
-      "name": "Mayotte-complete",
+      "name": "Mayotte",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mayotte.png"
     },
     {
-      "name": "Mexico-complete",
+      "name": "Mexico",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mexico.png"
     },
     {
-      "name": "Micronesia-complete",
+      "name": "Micronesia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Micronesia.png"
     },
     {
-      "name": "Moldova-complete",
+      "name": "Moldova",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Moldova.png"
     },
     {
-      "name": "Monaco-complete",
+      "name": "Monaco",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Monaco.png"
     },
     {
-      "name": "Mongolia-complete",
+      "name": "Mongolia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mongolia.png"
     },
     {
-      "name": "Montenegro-complete",
+      "name": "Montenegro",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Montenegro.png"
     },
     {
-      "name": "Montserrat-complete",
+      "name": "Montserrat",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Montserrat.png"
     },
     {
-      "name": "Morocco-complete",
+      "name": "Morocco",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Morocco.png"
     },
     {
-      "name": "Mozambique-complete",
+      "name": "Mozambique",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Mozambique.png"
     },
     {
-      "name": "Myanmar-complete",
+      "name": "Myanmar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Myanmar.png"
     },
     {
-      "name": "Namibia-complete",
+      "name": "Namibia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Namibia.png"
     },
     {
-      "name": "Nauru-complete",
+      "name": "Nauru",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Nauru.png"
     },
     {
-      "name": "Nepal-complete",
+      "name": "Nepal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Nepal.png"
     },
     {
-      "name": "Netherlands-complete",
+      "name": "Netherlands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Netherlands.png"
     },
     {
-      "name": "New Caledonia-complete",
+      "name": "New Caledonia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/New%20Caledonia.png"
     },
     {
-      "name": "New Zealand-complete",
+      "name": "New Zealand",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/New%20Zealand.png"
     },
     {
-      "name": "Nicaragua-complete",
+      "name": "Nicaragua",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Nicaragua.png"
     },
     {
-      "name": "Niger-complete",
+      "name": "Niger",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Niger.png"
     },
     {
-      "name": "Nigeria-complete",
+      "name": "Nigeria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Nigeria.png"
     },
     {
-      "name": "Niue-complete",
+      "name": "Niue",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Niue.png"
     },
     {
-      "name": "Norfolk Island-complete",
+      "name": "Norfolk Island",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Norfolk%20Island.png"
     },
     {
-      "name": "North Korea-complete",
+      "name": "North Korea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/North%20Korea.png"
     },
     {
-      "name": "North Macedonia-complete",
+      "name": "North Macedonia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/North%20Macedonia.png"
     },
     {
-      "name": "Northern Ireland-complete",
+      "name": "Northern Ireland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Northern%20Ireland.png"
     },
     {
-      "name": "Northern Mariana Islands-complete",
+      "name": "Northern Mariana Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Northern%20Mariana%20Islands.png"
     },
     {
-      "name": "Norway-complete",
+      "name": "Norway",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Norway.png"
     },
     {
-      "name": "Oman-complete",
+      "name": "Oman",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Oman.png"
     },
     {
-      "name": "Pakistan-complete",
+      "name": "Pakistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Pakistan.png"
     },
     {
-      "name": "Palau-complete",
+      "name": "Palau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Palau.png"
     },
     {
-      "name": "Palestine-complete",
+      "name": "Palestine",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Palestine.png"
     },
     {
-      "name": "Panama-complete",
+      "name": "Panama",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Panama.png"
     },
     {
-      "name": "Papua New Guinea-complete",
+      "name": "Papua New Guinea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Papua%20New%20Guinea.png"
     },
     {
-      "name": "Paraguay-complete",
+      "name": "Paraguay",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Paraguay.png"
     },
     {
-      "name": "Peru-complete",
+      "name": "Peru",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Peru.png"
     },
     {
-      "name": "Philippines-complete",
+      "name": "Philippines",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Philippines.png"
     },
     {
-      "name": "Pitcairn Islands-complete",
+      "name": "Pitcairn Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Pitcairn%20Islands.png"
     },
     {
-      "name": "Poland-complete",
+      "name": "Poland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Poland.png"
     },
     {
-      "name": "Portugal-complete",
+      "name": "Portugal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Portugal.png"
     },
     {
-      "name": "Puerto Rico-complete",
+      "name": "Puerto Rico",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Puerto%20Rico.png"
     },
     {
-      "name": "Qatar-complete",
+      "name": "Qatar",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Qatar.png"
     },
     {
-      "name": "Republic of the Congo-complete",
+      "name": "Republic of the Congo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Republic%20of%20the%20Congo.png"
     },
     {
-      "name": "Reunion-complete",
+      "name": "Reunion",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Reunion.png"
     },
     {
-      "name": "Romania-complete",
+      "name": "Romania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Romania.png"
     },
     {
-      "name": "Russia-complete",
+      "name": "Russia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Russia.png"
     },
     {
-      "name": "Rwanda-complete",
+      "name": "Rwanda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Rwanda.png"
     },
     {
-      "name": "Saint Barthelemy-complete",
+      "name": "Saint Barthelemy",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Barthelemy.png"
     },
     {
-      "name": "Saint Helena Ascension and Tristan da Cunha-complete",
+      "name": "Saint Helena Ascension and Tristan da Cunha",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Helena%20Ascension%20and%20Tristan%20da%20Cunha.png"
     },
     {
-      "name": "Saint Kitts and Nevis-complete",
+      "name": "Saint Kitts and Nevis",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Kitts%20and%20Nevis.png"
     },
     {
-      "name": "Saint Lucia-complete",
+      "name": "Saint Lucia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Lucia.png"
     },
     {
-      "name": "Saint Martin-complete",
+      "name": "Saint Martin",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Martin.png"
     },
     {
-      "name": "Saint Pierre and Miquelon-complete",
+      "name": "Saint Pierre and Miquelon",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Pierre%20and%20Miquelon.png"
     },
     {
-      "name": "Saint Vincent and the Grenadines-complete",
+      "name": "Saint Vincent and the Grenadines",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saint%20Vincent%20and%20the%20Grenadines.png"
     },
     {
-      "name": "Samoa-complete",
+      "name": "Samoa",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Samoa.png"
     },
     {
-      "name": "San Marino-complete",
+      "name": "San Marino",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/San%20Marino.png"
     },
     {
-      "name": "Sao Tome and Principe-complete",
+      "name": "Sao Tome and Principe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Sao%20Tome%20and%20Principe.png"
     },
     {
-      "name": "Saudi Arabia-complete",
+      "name": "Saudi Arabia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Saudi%20Arabia.png"
     },
     {
-      "name": "Scotland-complete",
+      "name": "Scotland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Scotland.png"
     },
     {
-      "name": "Senegal-complete",
+      "name": "Senegal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Senegal.png"
     },
     {
-      "name": "Serbia-complete",
+      "name": "Serbia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Serbia.png"
     },
     {
-      "name": "Seychelles-complete",
+      "name": "Seychelles",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Seychelles.png"
     },
     {
-      "name": "Sierra Leone-complete",
+      "name": "Sierra Leone",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Sierra%20Leone.png"
     },
     {
-      "name": "Singapore-complete",
+      "name": "Singapore",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Singapore.png"
     },
     {
-      "name": "Sint Maarten-complete",
+      "name": "Sint Maarten",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Sint%20Maarten.png"
     },
     {
-      "name": "Slovakia-complete",
+      "name": "Slovakia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Slovakia.png"
     },
     {
-      "name": "Slovenia-complete",
+      "name": "Slovenia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Slovenia.png"
     },
     {
-      "name": "Solomon Islands-complete",
+      "name": "Solomon Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Solomon%20Islands.png"
     },
     {
-      "name": "Somalia-complete",
+      "name": "Somalia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Somalia.png"
     },
     {
-      "name": "South Africa-complete",
+      "name": "South Africa",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/South%20Africa.png"
     },
     {
-      "name": "South Georgia-complete",
+      "name": "South Georgia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/South%20Georgia.png"
     },
     {
-      "name": "South Korea-complete",
+      "name": "South Korea",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/South%20Korea.png"
     },
     {
-      "name": "South Sudan-complete",
+      "name": "South Sudan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/South%20Sudan.png"
     },
     {
-      "name": "Spain-complete",
+      "name": "Spain",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Spain.png"
     },
     {
-      "name": "Sri Lanka-complete",
+      "name": "Sri Lanka",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Sri%20Lanka.png"
     },
     {
-      "name": "Sudan-complete",
+      "name": "Sudan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Sudan.png"
     },
     {
-      "name": "Suriname-complete",
+      "name": "Suriname",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Suriname.png"
     },
     {
-      "name": "Svalbard and Jan Mayen-complete",
+      "name": "Svalbard and Jan Mayen",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Svalbard%20and%20Jan%20Mayen.png"
     },
     {
-      "name": "Sweden-complete",
+      "name": "Sweden",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Sweden.png"
     },
     {
-      "name": "Switzerland-complete",
+      "name": "Switzerland",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Switzerland.png"
     },
     {
-      "name": "Syria-complete",
+      "name": "Syria",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Syria.png"
     },
     {
-      "name": "Taiwan-complete",
+      "name": "Taiwan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Taiwan.png"
     },
     {
-      "name": "Tajikistan-complete",
+      "name": "Tajikistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Tajikistan.png"
     },
     {
-      "name": "Tanzania-complete",
+      "name": "Tanzania",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Tanzania.png"
     },
     {
-      "name": "Thailand-complete",
+      "name": "Thailand",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Thailand.png"
     },
     {
-      "name": "Timor-Leste-complete",
+      "name": "Timor-Leste",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Timor-Leste.png"
     },
     {
-      "name": "Togo-complete",
+      "name": "Togo",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Togo.png"
     },
     {
-      "name": "Tokelau-complete",
+      "name": "Tokelau",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Tokelau.png"
     },
     {
-      "name": "Tonga-complete",
+      "name": "Tonga",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Tonga.png"
     },
     {
-      "name": "Trinidad and Tobago-complete",
+      "name": "Trinidad and Tobago",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Trinidad%20and%20Tobago.png"
     },
     {
-      "name": "Tunisia-complete",
+      "name": "Tunisia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Tunisia.png"
     },
     {
-      "name": "Turkey-complete",
+      "name": "Turkey",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Turkey.png"
     },
     {
-      "name": "Turkmenistan-complete",
+      "name": "Turkmenistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Turkmenistan.png"
     },
     {
-      "name": "Turks and Caicos Islands-complete",
+      "name": "Turks and Caicos Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Turks%20and%20Caicos%20Islands.png"
     },
     {
-      "name": "Tuvalu-complete",
+      "name": "Tuvalu",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Tuvalu.png"
     },
     {
-      "name": "Uganda-complete",
+      "name": "Uganda",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Uganda.png"
     },
     {
-      "name": "Ukraine-complete",
+      "name": "Ukraine",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Ukraine.png"
     },
     {
-      "name": "United Arab Emirates-complete",
+      "name": "United Arab Emirates",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/United%20Arab%20Emirates.png"
     },
     {
-      "name": "United Kingdom-complete",
+      "name": "United Kingdom",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/United%20Kingdom.png"
     },
     {
-      "name": "United Nations-complete",
+      "name": "United Nations",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/United%20Nations.png"
     },
     {
-      "name": "United States Virgin Islands-complete",
+      "name": "United States Virgin Islands",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/United%20States%20Virgin%20Islands.png"
     },
     {
-      "name": "United States-complete",
+      "name": "United States",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/United%20States.png"
     },
     {
-      "name": "Uruguay-complete",
+      "name": "Uruguay",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Uruguay.png"
     },
     {
-      "name": "Uzbekistan-complete",
+      "name": "Uzbekistan",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Uzbekistan.png"
     },
     {
-      "name": "Vanuatu-complete",
+      "name": "Vanuatu",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Vanuatu.png"
     },
     {
-      "name": "Vatican City Holy See-complete",
+      "name": "Vatican City Holy See",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Vatican%20City%20Holy%20See.png"
     },
     {
-      "name": "Venezuela-complete",
+      "name": "Venezuela",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Venezuela.png"
     },
     {
-      "name": "Vietnam-complete",
+      "name": "Vietnam",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Vietnam.png"
     },
     {
-      "name": "Wales-complete",
+      "name": "Wales",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Wales.png"
     },
     {
-      "name": "Wallis and Futuna-complete",
+      "name": "Wallis and Futuna",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Wallis%20and%20Futuna.png"
     },
     {
-      "name": "Western Sahara-complete",
+      "name": "Western Sahara",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Western%20Sahara.png"
     },
     {
-      "name": "Yemen-complete",
+      "name": "Yemen",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Yemen.png"
     },
     {
-      "name": "Zambia-complete",
+      "name": "Zambia",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Zambia.png"
     },
     {
-      "name": "Zimbabwe-complete",
+      "name": "Zimbabwe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/flags-complete/Zimbabwe.png"
     },
     {
@@ -9998,11 +10194,11 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Africa.png"
     },
     {
-      "name": "Africa_Map",
+      "name": "Africa_Map-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Africa_Map-2.png"
     },
     {
-      "name": "America_Map",
+      "name": "America_Map-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/America_Map-2.png"
     },
     {
@@ -10046,7 +10242,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Asia.png"
     },
     {
-      "name": "Asia_Map",
+      "name": "Asia_Map-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Asia_Map-2.png"
     },
     {
@@ -10062,7 +10258,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/China_Mainland.png"
     },
     {
-      "name": "China_Mainland2",
+      "name": "China_Mainland2-3",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/China_Mainland2-3.png"
     },
     {
@@ -10078,7 +10274,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Europe.png"
     },
     {
-      "name": "Europe_Map",
+      "name": "Europe_Map-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Europe_Map-2.png"
     },
     {
@@ -10186,7 +10382,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Home_Navy.png"
     },
     {
-      "name": "Hong_Kong",
+      "name": "Hong_Kong-3",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Hong_Kong-3.png"
     },
     {
@@ -10214,7 +10410,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Japan.png"
     },
     {
-      "name": "LA_Map",
+      "name": "LA_Map-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/LA_Map-2.png"
     },
     {
@@ -10222,7 +10418,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Lock_Slate.png"
     },
     {
-      "name": "Malaysia",
+      "name": "Malaysia-3",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Malaysia-3.png"
     },
     {
@@ -10242,7 +10438,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Search_Indigo.png"
     },
     {
-      "name": "Singapore",
+      "name": "Singapore-3",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Singapore-3.png"
     },
     {
@@ -10258,7 +10454,7 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Star_Amber.png"
     },
     {
-      "name": "Taiwan",
+      "name": "Taiwan-3",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Taiwan-3.png"
     },
     {
@@ -10266,15 +10462,15 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/United_Kingdom.png"
     },
     {
-      "name": "United_States",
+      "name": "United_States-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/United_States-2.png"
     },
     {
-      "name": "United_States_Map",
+      "name": "United_States_Map-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/United_States_Map-2.png"
     },
     {
-      "name": "United_States_Map__1",
+      "name": "United_States_Map__1-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/United_States_Map__1-2.png"
     },
     {
