@@ -10334,6 +10334,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Download_Sky.png"
     },
     {
+      "name": "Download_Teal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Download_Teal.png"
+    },
+    {
       "name": "Europe",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Europe.png"
     },
@@ -10496,6 +10500,10 @@
     {
       "name": "Plus_Red",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Plus_Red.png"
+    },
+    {
+      "name": "Plus_Teal",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Plus_Teal.png"
     },
     {
       "name": "Search_Indigo",
