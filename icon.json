@@ -10442,6 +10442,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Red.png"
     },
     {
+      "name": "Globe_Sky",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Sky.png"
+    },
+    {
       "name": "Globe_Teal",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/Globe_Teal.png"
     },
@@ -10552,6 +10556,10 @@
     {
       "name": "World",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/World.png"
+    },
+    {
+      "name": "World_Map_Sky",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/World_Map_Sky.png"
     },
     {
       "name": "X_Close_Blue",
