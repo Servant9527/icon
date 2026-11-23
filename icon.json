@@ -6502,6 +6502,10 @@
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/World-Map.png"
     },
     {
+      "name": "World-Map-Large",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/World-Map-Large.png"
+    },
+    {
       "name": "Wps-2",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/App-icons/Wps-2.png"
     },
@@ -11444,6 +11448,10 @@
     {
       "name": "World",
       "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/World.png"
+    },
+    {
+      "name": "World-Large",
+      "url": "https://raw.githubusercontent.com/Servant9527/icon/main/maps/World-Large.png"
     },
     {
       "name": "World_Map_Sky",
